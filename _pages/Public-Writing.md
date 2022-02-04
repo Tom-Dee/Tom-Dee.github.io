@@ -26,7 +26,7 @@ Dee, T. S. & Penner, E. [“Can Ethnic Studies Courses Help Students Succeed in 
 
 Dee, T. S. & Gershenson, S. [“Unconscious Bias in the Classroom: Evidence and Opportunities,”](https://goo.gl/O6Btqi) Mountain View, CA: Google Inc., 2017. Retrieved from https://goo.gl/O6Btqi.
 
-Herman, R., Dawson, P., Dee, T., Greene, J., Maynard, R., Redding, S., and Darwin, M. (2008). _[Turning Around Chronically Low-Performing Schools: A practice guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/7#tab-summary)_ (NCEE #2008- 4020). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. 
+Herman, R., Dawson, P., Dee, T. S., Greene, J., Maynard, R., Redding, S., and Darwin, M. (2008). _[Turning Around Chronically Low-Performing Schools: A practice guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/7#tab-summary)_ (NCEE #2008- 4020). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. 
 
 Dee, T. S. [“The Why Chromosome: How a teacher’s gender affects boys and girls,”](https://www.educationnext.org/the-why-chromosome/) _Education Next_ 6(4), Fall 2006, pages 68-75.
 
