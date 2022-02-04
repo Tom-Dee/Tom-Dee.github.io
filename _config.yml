@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas S. Dee"
+  name             : #"Thomas S. Dee"
   avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
