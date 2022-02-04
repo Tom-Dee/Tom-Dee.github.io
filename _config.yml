@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Thomas S. Dee"
+title                    : "Thomas S. Dee"
 #title_separator          : "-"
 name                     : &name "Thomas S. Dee"
 description              : &description "Barnett Family Professor - Stanford University"
