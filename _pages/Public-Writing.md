@@ -18,13 +18,13 @@ author_profile: true
 
 [“The Insidiousness of Unconscious Bias in Schools,”](https://www.brookings.edu/blog/brown-center-chalkboard/2017/03/20/the-insidiousness-of-unconscious-bias-in-schools/) with S. Gershenson, Brown Center Chalkboard, Brookings Institution, March 20, 2017.
 
-[“A Lasting Impact: High-stakes teacher evaluations drive student success in Washington, D.C.,”](https://www.educationnext.org/a-lasting-impact-high-stakes-teacher-evaluations-student-success-washington-dc/) with J. Wyckoff, Education Next 17(4), 58-66.
+[“A Lasting Impact: High-stakes teacher evaluations drive student success in Washington, D.C.,”](https://www.educationnext.org/a-lasting-impact-high-stakes-teacher-evaluations-student-success-washington-dc/) with J. Wyckoff, Education Next 17(4), Fall 2017, 58-66.
 
 [“Understanding and Addressing Teacher Shortages in the United States,”](https://www.hamiltonproject.org/papers/understanding_and_addressing_teacher_shortages_in_the_united_states) with D. Goldhaber, The Brookings Institution, Hamilton Project Policy Proposal 2017-05, April 2017. 
 
 [“Can Ethnic Studies Courses Help Students Succeed in School? Evidence From San Francisco,”](https://www.edweek.org/teaching-learning/opinion-can-ethnic-studies-courses-help-students-succeed-in-school-evidence-from-san-francisco/2017/07) with E. Penner, Urban Education Reform: Bridging Research and Practice, _Education Week_, July 31, 2017. 
 
-[“Unconscious Bias in the Classroom: Evidence and Opportunities,”](https://goo.gl/O6Btqi) with S. Gershenson, Mountain View, CA: Google Inc. Retrieved from https://goo.gl/O6Btqi.
+[“Unconscious Bias in the Classroom: Evidence and Opportunities,”](https://goo.gl/O6Btqi) with S. Gershenson, Mountain View, CA: Google Inc., 2017. Retrieved from https://goo.gl/O6Btqi.
 
 [“The Why Chromosome: How a teacher’s gender affects boys and girls,”](https://www.educationnext.org/the-why-chromosome/) _Education Next_ 6(4), Fall 2006, pages 68-75.
 
