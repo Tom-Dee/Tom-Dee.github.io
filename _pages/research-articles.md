@@ -4,8 +4,19 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
+Pyne, J., Messner, E. & Dee, T. S. “[The Dynamic Effects of a Summer Learning Program on Behavioral Engagement in School](/files/edfp_a_00368.pdf,” with J. Pyne and E. Messner, _Education Finance and Policy_, forthcoming.
 
-Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). Proceedings of the National Academy of Sciences, 118(37).
+Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). _Proceedings of the National Academy of Sciences, 118_(37).
+
+Dee, T.S. & Penner, E. “[My Brother’s Keeper? The Impact of Targeted Educational Supports](/files/jpam 2021.pdf),” _Journal of Policy Analysis and Management 40_(4), 1171-1196. 
+
+Dee, T. S. & Murphy, M. “[Patterns in the Pandemic Decline of Public-School Enrollment](/files/Ed Researcher 2021.pdf),” _Educational Researcher 50_(8), 566-569.
+
+Dee, T. S. & Domingue, B. “[Assessing the Impact of a Test Question: Evidence from the ‘Underground Railroad’ Controversy](/files/EMIP 2021.pdf),” _Educational Measurement: Issues and Practice 40_(2), Summer 2021, 81-88.
+
+Dee, T. S., James, J. & Wyckoff, J. “[Is Effective Teacher Evaluation Sustainable? Evidence from DCPS](/files/EFP Dee James Wyckoff 2021.pdf),” _Education Finance and Policy 16_(2), 2021, 313-346.
+
+Dee, T. S. & Murphy, M. “[Vanished Classmates: The Effects of Local Immigration Enforcement on Student Enrollment](/files/AERJ 2020.pdf),” _American Educational Research Journal 57_(2), 2020, 694-727.
 
 Dee, T. S. (2005). [A teacher like me: Does race, ethnicity, or gender matter?](/files/aeap&p05.pdf). American Economic Review, 95(2), 158-165.
 
@@ -13,17 +24,6 @@ Dee, T. S., Jacob, B. A., Hoxby, C. M. & Ladd, H. F. (2010). [The Impact of No C
 
 Dee, T. S., Ha, W., & Jacob, B. A. (2006). [The Effects of School Size on Parental Involvement and Social Capital: Evidence from the ELS: 2002.](http://www.jstor.org/stable/20067278) Brookings Papers on Education Policy, 9, 77–97.
 
-“The Dynamic Effects of a Summer Learning Program on Behavioral Engagement in School,” with J. Pyne and E. Messner, Education Finance and Policy, forthcoming.
-
-“My Brother’s Keeper? The Impact of Targeted Educational Supports,” with E. Penner, Journal of Policy Analysis and Management, forthcoming; https://doi.org/10.1002/pam.22328.
-
-“Patterns in the Pandemic Decline of Public-School Enrollment,” with Mark Murphy, Educational Researcher 50(8), 202, 566-569; https://doi.org/10.3102/0013189X211034481.
-
-“Assessing the Impact of a Test Question: Evidence from the ‘Underground Railroad’ Controversy,” with B. Domingue, Educational Measurement: Issues and Practice 40(2), Summer 2021, 81-88.
-
-“Is Effective Teacher Evaluation Sustainable? Evidence from DCPS,” with J. James and J. Wyckoff. Education Finance and Policy 16(2), 2021, 313-346.
-
-“Vanished Classmates: The Effects of Local Immigration Enforcement on Student Enrollment,” with Mark Murphy, American Educational Research Journal 57(2), 2020, 694-727.
 
 “The Effects of School Reform under NCLB Waivers: Evidence from Focus Schools in Kentucky,” with Sade Bonilla, Education Finance and Policy 15(1), 2020, 75-103.
 
