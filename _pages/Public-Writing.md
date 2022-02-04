@@ -37,11 +37,3 @@ author_profile: true
 [“Unanswered Questions,”](/files/Baltimore Sun Op-Ed 06.21.2004.pdf) _Baltimore Sun_, June 21, 2004, page 11A. 
 
 [“Learning to Earn,”](https://www.educationnext.org/learningtoearn/) _Education Next_ 3(3), Summer 2003, pages 65-70.
-
-
-
-"The Impact of No Child Left Behind on Students, Teachers, and Schools," with Brian Jacob, Brookings Papers on Economic Activity, Fall 2010.
-
-Turning around Chronically Low-Performing Schools: A Practice Guide with Herman, R., Dawson, P., Greene, J., Maynard, R., Redding, S., and Darwin, M. Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. NCEE #2008-4020, May 2008.
-
-“The Effects of School Size on Parental Involvement and Social Capital: Evidence from the ELS:2002,” with Wei Ha and Brian A. Jacob, Brookings Papers on Education Policy 2006/2007, pages 77-97.
