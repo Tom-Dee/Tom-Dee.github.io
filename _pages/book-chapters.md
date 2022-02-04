@@ -4,7 +4,7 @@ permalink: /Book-Chapters/
 author_profile: true
 ---
 
-“The Impact of Local ICE-Police Partnerships on Students,” with M. Murphy. In P. Gándara and J. Ee (Eds.). Equity Disrupted: The Impact of Immigration Enforcement Policies on the Nation’s Schools. Cambridge, MA: Harvard Education Press, forthcoming.
+“The Impact of Local ICE-Police Partnerships on Students,” with M. Murphy. In P. Gándara and J. Ee (Eds.). [Schools Under Siege: The Impact of Immigration Enforcement on Educational Equity](https://www.hepg.org/hep-home/books/schools-under-siege). Cambridge, MA: Harvard Education Press, 2021.
 
 “Stereotype Threat in the Real World” with Joshua Aronson. In Schmader, T. & Inzlicht, M. (Eds.) Stereotype threat: Theory, Process, and Application. Oxford, U.K.: Oxford University Press, 2011, pages 264-279.
 
