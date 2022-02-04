@@ -10,9 +10,11 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-September 6, 2021 - Our study of the [longer-run effects](https://news.stanford.edu/2021/09/06/research-finds-sustained-impact-ethnic-studies-class/) of a high-school ethnic-studies course is out at [PNAS](https://www.pnas.org/content/118/37/e2026386118)
+January 19, 2022 — I share my thoughts on what makes researcher-practitioner partnerships (RPPs) effective in an [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-what-it-takes-for-universities-to-conduct-useful-education-research/2022/01)
 
-August 23, 2021 - My short presentation of our study of school-reopening policies is available on NBER's Youtube channel:
+September 6, 2021 — Our study of the [longer-run effects](https://news.stanford.edu/2021/09/06/research-finds-sustained-impact-ethnic-studies-class/) of a high-school ethnic-studies course is out at [PNAS](https://www.pnas.org/content/118/37/e2026386118)
+
+August 23, 2021 — My short presentation of our study of school-reopening policies during the COVID-19 pandemic is available on NBER's Youtube channel:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AyEw6GsjI6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
