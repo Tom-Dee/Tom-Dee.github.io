@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Scholarly Works"
 permalink: /Scholarly-Works/
 author_profile: true
 ---
