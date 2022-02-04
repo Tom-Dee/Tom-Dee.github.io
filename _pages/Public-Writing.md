@@ -26,6 +26,8 @@ author_profile: true
 
 [“Unconscious Bias in the Classroom: Evidence and Opportunities,”](https://goo.gl/O6Btqi) with S. Gershenson, Mountain View, CA: Google Inc., 2017. Retrieved from https://goo.gl/O6Btqi.
 
+[Turning around Chronically Low-Performing Schools: A Practice Guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/7#tab-summary) with Herman, R., Dawson, P., Greene, J., Maynard, R., Redding, S., and Darwin, M. Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. NCEE #2008-4020, May 2008.
+
 [“The Why Chromosome: How a teacher’s gender affects boys and girls,”](https://www.educationnext.org/the-why-chromosome/) _Education Next_ 6(4), Fall 2006, pages 68-75.
 
 [“Dollars and Sense,”](https://www.educationnext.org/dollars-and-sense/) with B. Keys, _Education Next_ 5(1), Winter 2005, pages 60-67.
