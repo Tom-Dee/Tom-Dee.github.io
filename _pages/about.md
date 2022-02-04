@@ -1,5 +1,5 @@
 ---
-permalink: /
+#permalink: /
 #title: "Thomas S. Dee"
 #excerpt: "About me"
 #author_profile: true
