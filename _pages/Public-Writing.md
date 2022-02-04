@@ -32,7 +32,7 @@ author_profile: true
 
 [“The Race Connection,”](https://www.educationnext.org/the-race-connection/) _Education Next_ 4(2), Spring 2004, pages 53-59.
 
-[“Unanswered Questions,”](/files/Baltimore Sun Op-Ed 06.21.2004.pdf) _The Baltimore Sun_, June 21, 2004, page 11A. 
+[“Unanswered Questions,”](/files/Baltimore Sun Op-Ed 06.21.2004.pdf) _Baltimore Sun_, June 21, 2004, page 11A. 
 
 [“Learning to Earn,”](https://www.educationnext.org/learningtoearn/) _Education Next_ 3(3), Summer 2003, pages 65-70.
 
