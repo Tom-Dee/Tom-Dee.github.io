@@ -12,6 +12,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 January 19, 2022 — I share my thoughts on what makes researcher-practitioner partnerships (RPPs) effective in an [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-what-it-takes-for-universities-to-conduct-useful-education-research/2022/01)
 
+December 23, 2021 — Our study of the impact of school-reopening policies during the pandemic is chosen as [the top education study of 2021](https://fordhaminstitute.org/national/commentary/counting-down-top-education-studies-2021) by the Fordham Institute. 
+
 September 6, 2021 — Our study of the [longer-run effects](https://news.stanford.edu/2021/09/06/research-finds-sustained-impact-ethnic-studies-class/) of a high-school ethnic-studies course is out at [PNAS](https://www.pnas.org/content/118/37/e2026386118)
 
 August 23, 2021 — My short presentation of our study of school-reopening policies during the COVID-19 pandemic is available on NBER's Youtube channel:
