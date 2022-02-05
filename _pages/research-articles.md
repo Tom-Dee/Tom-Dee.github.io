@@ -116,7 +116,7 @@ Dee, T. S. (2001). [The effects of minimum legal drinking ages on teen childbear
 
 Dee, T. S., & Evans, W. N. (2001). [Behavior policies and teen traffic safety](/files/aeap&p01.pdf). _American Economic Review, 91_(2), 91-96.
 
-Dee, T. S. (2001). [Alcohol abuse and economic conditions: evidence from repeated cross‐sections of individual‐level data](/files/.pdf). _Health Economics, 10_(3), 257-270.
+Dee, T. S. (2001). [Alcohol abuse and economic conditions: evidence from repeated cross‐sections of individual‐level data](/files/Health Economics - 2001.pdf). _Health Economics, 10_(3), 257-270.
 
 Dee, T. S. (2001). [Does setting limits save lives? The case of 0.08 BAC laws](/files/jpam01.pdf). _Journal of Policy Analysis and Management 20_(1), 111-128.
 
