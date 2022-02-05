@@ -22,9 +22,7 @@ December 15, 2021 — Our recent research produced two of the ["16 Charts that C
 
 September 6, 2021 — A study by Professors Sade Bonilla, Emily Penner, and me on the [longer-run effects](https://news.stanford.edu/2021/09/06/research-finds-sustained-impact-ethnic-studies-class/) of a high-school ethnic-studies course is out at the [Proceedings of the National Academy of the Sciences (PNAS)](https://www.pnas.org/content/118/37/e2026386118).
 
-August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of school-reopening policies during the COVID-19 pandemic is available on NBER's Youtube channel:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AyEw6GsjI6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of school-reopening policies during the COVID-19 pandemic is available on NBER's Youtube channel: <iframe width="560" height="315" src="https://www.youtube.com/embed/AyEw6GsjI6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 August 19, 2021 — I discussed remote learning and school reopenings at an ["In Conversation with SIEPR Scholars"](https://siepr.stanford.edu/event/conversation-tom-dee-remote-learning-and-school-reopenings-during-pandemic-lessons-and) event.
 
