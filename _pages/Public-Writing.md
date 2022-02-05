@@ -22,7 +22,7 @@ Dee, T. S. & Wyckoff, J. (2017). [A Lasting Impact: High-stakes teacher evaluati
 
 Dee, T. S. & Goldhaber, D. (2017). [Understanding and Addressing Teacher Shortages in the United States](https://www.hamiltonproject.org/papers/understanding_and_addressing_teacher_shortages_in_the_united_states). The Brookings Institution. 
 
-Dee, T. S. & Penner, E. (July 31, 2017). [Can Ethnic Studies Courses Help Students Succeed in School? Evidence From San Francisco](https://www.edweek.org/teaching-learning/opinion-can-ethnic-studies-courses-help-students-succeed-in-school-evidence-from-san-francisco/2017/07). Urban Education Reform: Bridging Research and Practice, _Education Week. 
+Dee, T. S. & Penner, E. (July 31, 2017). [Can Ethnic Studies Courses Help Students Succeed in School? Evidence From San Francisco](https://www.edweek.org/teaching-learning/opinion-can-ethnic-studies-courses-help-students-succeed-in-school-evidence-from-san-francisco/2017/07). Urban Education Reform: Bridging Research and Practice, _Education Week_. 
 
 Dee, T. S. & Gershenson, S. (2017). [Unconscious Bias in the Classroom: Evidence and Opportunities](https://goo.gl/O6Btqi). Google Inc.
 
@@ -30,7 +30,7 @@ Herman, R., Dawson, P., Dee, T. S., Greene, J., Maynard, R., Redding, S., and Da
 
 Dee, T. S. (2006). [The Why Chromosome: How a teacher’s gender affects boys and girls](https://www.educationnext.org/the-why-chromosome/). _Education Next 6_(4), 68-75.
 
-Dee, T. S. & Keys, B. (2005). [Dollars and Sense](https://www.educationnext.org/dollars-and-sense/) ._Education Next 5_(1), 60-67.
+Dee, T. S. & Keys, B. (2005). [Dollars and Sense](https://www.educationnext.org/dollars-and-sense/). _Education Next 5_(1), 60-67.
 
 Dee, T. S. (2004). [The Race Connection](https://www.educationnext.org/the-race-connection/). _Education Next 4_(2), 53-59.
 
