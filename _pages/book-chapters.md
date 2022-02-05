@@ -18,6 +18,6 @@ Dee, T. S. (2004). Comment on “Peer Effects in Higher Education" by G. Winston
 
 Dee, T. S. (2003). [The 'First Wave' of Accountability](/files/firstwave.pdf). In P. Petersen and M. West (Eds.), _[No Child Left Behind? The Politics and Practice of Accountability](https://www.brookings.edu/book/no-child-left-behind/)_. Brookings Institution Press.
 
-Dee, T. S. (2002). [Where Does New Money Go? Evidence from Litigation and a Lottery](https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002316). In. W. Fowler (Ed.), _Developments in School Finance, 1999-2000_. National Center for Education Statistics, U.S. Department of Education.
+Dee, T. S. (2002). [Where Does New Money Go? Evidence from Litigation and a Lottery](https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002316). In W. Fowler (Ed.), _Developments in School Finance, 1999-2000_. National Center for Education Statistics, U.S. Department of Education.
 
 Dee, T. S. & Evans, W. N. (2001). Teens and Traffic Safety. In J. Gruber (Ed.), _[An Economic Analysis of Risky Behavior Among Youths](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3646355.html)_, University of Chicago Press.
