@@ -30,7 +30,7 @@ Dee, T. S., Dobbie, W., Jacob, B. A., Rockoff, J. (2019). [The Causes and Conseq
 
 Chaturapruek, S., Dee, T. S., Johari, R., Kizilcec, R. F., & Stevens, M. L. (2018, June). [How a data-driven course planning tool affects college students' GPA: evidence from two field experiments](/files/3231644.3231668.pdf). In Proceedings of the fifth annual ACM conference on learning at scale (pp. 1-10).
 
-Dee, T. S., & Sievertsen, H. H. (2018). The gift of time? School starting age and mental health. Health economics, 27(5), 781-802.
+Dee, T. S., & Sievertsen, H. H. (2018). [The gift of time? School starting age and mental health](/files/.pdf). _Health economics, 27_(5), 781-802.
 
 Dee, T. S., & Penner, E. K. (2017). The causal effects of cultural relevance: Evidence from an ethnic studies curriculum. American Educational Research Journal, 54(1), 127-166.
 
@@ -59,7 +59,7 @@ Bronchetti, E. T., Dee, T. S., Huffman, D. B., & Magenheim, E. (2013). When a nu
 
 Dee, T. S., Jacob, B., & Schwartz, N. L. (2013). The effects of NCLB on school resources and practices. Educational Evaluation and Policy Analysis, 35(2), 252-279.
 
-Dee, T. S., & Jacob, B. A. (2012). Rational ignorance in education a field experiment in student plagiarism. Journal of Human Resources, 47(2), 397-434.
+Dee, T. S., & Jacob, B. A. (2012). Rational ignorance in education: A field experiment in student plagiarism. Journal of Human Resources, 47(2), 397-434.
 
 Dee, T. S. (2011). Conditional cash penalties in education: Evidence from the Learnfare experiment. Economics of Education Review, 30(5), 924-937.
 
