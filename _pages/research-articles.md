@@ -8,7 +8,7 @@ Pyne, J., Messner, E. & Dee, T. S. (in press). [The dynamic effects of a summer 
 
 Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). _Proceedings of the National Academy of Sciences, 118_(37).
 
-Dee, T.S. & Penner, E. (2021). [My brother’s ieeper? The impact of targeted educational supports](/files/jpam 2021.pdf). _Journal of Policy Analysis and Management 40_(4), 1171-1196. 
+Dee, T.S. & Penner, E. (2021). [My brother’s keeper? The impact of targeted educational supports](/files/jpam 2021.pdf). _Journal of Policy Analysis and Management 40_(4), 1171-1196. 
 
 Dee, T. S. & Murphy, M. (2021). [Patterns in the pandemic decline of public-school enrollment](/files/Ed Researcher 2021.pdf). _Educational Researcher 50_(8), 566-569.
 
