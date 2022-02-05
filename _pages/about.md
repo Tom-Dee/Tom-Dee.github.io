@@ -25,6 +25,7 @@ September 6, 2021 — A study by Professors Sade Bonilla, Emily Penner, and me o
 August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of school-reopening policies during the COVID-19 pandemic is available on NBER's Youtube channel:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AyEw6GsjI6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 August 19, 2021 — I discussed remote learning and school reopenings at an ["In Conversation with SIEPR Scholars"](https://siepr.stanford.edu/event/conversation-tom-dee-remote-learning-and-school-reopenings-during-pandemic-lessons-and) event.
 
 August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the New York Times discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
