@@ -32,30 +32,29 @@ Chaturapruek, S., Dee, T. S., Johari, R., Kizilcec, R. F., & Stevens, M. L. (201
 
 Dee, T. S., & Sievertsen, H. H. (2018). [The gift of time? School starting age and mental health](/files/.pdf). _Health economics, 27_(5), 781-802.
 
-Dee, T. S., & Penner, E. K. (2017). The causal effects of cultural relevance: Evidence from an ethnic studies curriculum. American Educational Research Journal, 54(1), 127-166.
+Dee, T. S., & Penner, E. K. (2017). [The causal effects of cultural relevance: Evidence from an ethnic studies curriculum](/files/.pdf). _American Educational Research Journal, 54_(1), 127-166.
 
-Adnot, M., Dee, T., Katz, V., & Wyckoff, J. (2017). Teacher turnover, teacher quality, and student achievement in DCPS. Educational Evaluation and Policy Analysis, 39(1), 54-76.
+Adnot, M., Dee, T., Katz, V., & Wyckoff, J. (2017). [Teacher turnover, teacher quality, and student achievement in DCPS](/files/.pdf). _Educational Evaluation and Policy Analysis, 39_(1), 54-76.
 
-Barr, A. C., & Dee, T. S. (2016). Property taxes and politicians: evidence from school budget elections. National Tax Journal, 69(3), 517-544.
+Barr, A. C., & Dee, T. S. (2016). [Property taxes and politicians: evidence from school budget elections](/files/.pdf). _National Tax Journal, 69_(3), 517-544.
 
-Baker, R., Evans, B., & Dee, T. (2016). A randomized experiment testing the efficacy of a scheduling nudge in a Massive Open Online Course (MOOC). AERA Open, 2(4).
+Baker, R., Evans, B., & Dee, T. (2016). [A randomized experiment testing the efficacy of a scheduling nudge in a Massive Open Online Course (MOOC)](/files/.pdf). _AERA Open, 2_(4).
 
-Chang, S., Dee, T. S., Tse, C. W., & Yu, L. (2016). Be a Good Samaritan to a Good Samaritan: Field evidence of other-regarding preferences in China. China Economic Review, 41, 23-33.
+Chang, S., Dee, T. S., Tse, C. W., & Yu, L. (2016). [Be a Good Samaritan to a Good Samaritan: Field evidence of other-regarding preferences in China](/files/.pdf). _China Economic Review, 41_, 23-33.
 
-Evans, B. J., Baker, R. B., & Dee, T. S. (2016). Persistence patterns in massive open online courses (MOOCs). The Journal of Higher Education, 87(2), 206-242.
+Evans, B. J., Baker, R. B., & Dee, T. S. (2016). [Persistence patterns in massive open online courses (MOOCs)](/files/.pdf). _The Journal of Higher Education, 87_(2), 206-242.
 
-Dee, T., & Lan, X. (2015). The achievement and course-taking effects of magnet schools: Regression-discontinuity evidence from urban China. Economics of Education Review, 47, 128-142.
+Dee, T., & Lan, X. (2015). [The achievement and course-taking effects of magnet schools: Regression-discontinuity evidence from urban China](/files/.pdf). _Economics of Education Review, 47_, 128-142.
 
-Dee, T. S., & Wyckoff, J. (2015). Incentives, selection, and teacher performance: Evidence from IMPACT. Journal of Policy Analysis and Management, 34(2), 267-297.. 
-*Winner of the [2015 Raymond Vernon Memorial Award](https://www.appam.org/about-appam/awards/raymond-vernon-memorial-award/) from the Association for Public Policy Analysis and Management (APPAM) 
+Dee, T. S., & Wyckoff, J. (2015). [Incentives, selection, and teacher performance: Evidence from IMPACT](/files/.pdf). _Journal of Policy Analysis and Management, 34_(2), 267-297. *Winner of the [2015 Raymond Vernon Memorial Award](https://www.appam.org/about-appam/awards/raymond-vernon-memorial-award/) from the Association for Public Policy Analysis and Management (APPAM) 
 
-Dee, T. S. (2015). Social identity and achievement gaps: Evidence from an affirmation intervention. Journal of Research on Educational Effectiveness, 8(2), 149-168.
+Dee, T. S. (2015). [Social identity and achievement gaps: Evidence from an affirmation intervention](/files/.pdf). _Journal of Research on Educational Effectiveness, 8_(2), 149-168.
 
-Dee, T. S. (2014). Stereotype threat and the student‐athlete. Economic Inquiry, 52(1), 173-182.
+Dee, T. S. (2014). [Stereotype threat and the student‐athlete](/files/.pdf). _Economic Inquiry, 52_(1), 173-182.
 
-Colman, S., Dee, T. S., & Joyce, T. (2013). Do parental involvement laws deter risky teen sex?. Journal of health economics, 32(5), 873-880.
+Colman, S., Dee, T. S., & Joyce, T. (2013). [Do parental involvement laws deter risky teen sex?](/files/.pdf). _Journal of Health Economics, 32_(5), 873-880.
 
-Bronchetti, E. T., Dee, T. S., Huffman, D. B., & Magenheim, E. (2013). When a nudge isn't enough: Defaults and saving among low-income tax filers. National Tax Journal, 66(3), 609-634.
+Bronchetti, E. T., Dee, T. S., Huffman, D. B., & Magenheim, E. (2013). [When a nudge isn't enough: Defaults and saving among low-income tax filers](/files/.pdf). _National Tax Journal, 66_(3), 609-634.
 
 Dee, T. S., Jacob, B., & Schwartz, N. L. (2013). The effects of NCLB on school resources and practices. Educational Evaluation and Policy Analysis, 35(2), 252-279.
 
