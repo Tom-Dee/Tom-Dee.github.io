@@ -20,4 +20,4 @@ Dee, T. S. (2003). [The 'First Wave' of accountability](/files/firstwave.pdf). I
 
 Dee, T. S. (2002). [Where does new money go? Evidence from litigation and a lottery](https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002316). In W. Fowler (Ed.), _Developments in School Finance, 1999-2000_. National Center for Education Statistics, U.S. Department of Education.
 
-Dee, T. S. & Evans, W. N. (2001). Teens and traffic safety. In J. Gruber (Ed.), _[An economic analysis of risky behavior among youths](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3646355.html)_, University of Chicago Press.
+Dee, T. S. & Evans, W. N. (2001). [Teens and traffic safety](/files/tts.pdf). In J. Gruber (Ed.), _[An economic analysis of risky behavior among youths](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3646355.html)_, University of Chicago Press.
