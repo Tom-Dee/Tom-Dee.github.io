@@ -18,7 +18,7 @@ December 23, 2021 — My school-reopening [study](/files/w29156.pdf) with Stanfo
 
 December 17, 2021 — Our work on the Stanford School Enrollment Project with [Big Local News](https://biglocalnews.org), the New York Times, EdSource, the Colorado News Collaborative, and OpenNews is listed among the ["top 10+ journalism collaborations of 2021"](https://medium.com/centerforcooperativemedia/here-are-the-top-10-journalism-collaborations-of-2021-210536efaaf1).
 
-December 15, 2021 — Our recent research produced two of the ["16 Charts that Changed the Way We Looked at America's Schools in 2021"](https://www.the74million.org/article/16-charts-that-changed-the-way-we-looked-at-americas-schools-in-2021/).
+December 15, 2021 — Our recent research produced 1/8th of the ["16 Charts that Changed the Way We Looked at America's Schools in 2021"](https://www.the74million.org/article/16-charts-that-changed-the-way-we-looked-at-americas-schools-in-2021/).
 
 December 6, 2021 — Our Bay Area NBC affiliate discusses the [Gardner Center](https://gardnercenter.stanford.edu)'s ongoing partnership work on fielding [mental-health first responders](https://www.nbcbayarea.com/news/local/san-mateo-county-launches-mental-health-crisis-response-pilot-in-four-cities/2748749/).
 
