@@ -18,7 +18,7 @@ Baker, R., Dee, T. S., Evans, B. & John, J. (April 17, 2018). [Race and Gender B
 
 Gershenson, S. & Dee, T. S. (March 20, 2017). [The Insidiousness of Unconscious Bias in Schools](https://www.brookings.edu/blog/brown-center-chalkboard/2017/03/20/the-insidiousness-of-unconscious-bias-in-schools/). Brown Center Chalkboard, Brookings Institution.
 
-Dee, T. S. & Wyckoff, J. (2017). [A Lasting Impact: High-stakes teacher evaluations drive student success in Washington, D.C.](https://www.educationnext.org/a-lasting-impact-high-stakes-teacher-evaluations-student-success-washington-dc/). _Education Next 17_(4), pp. 58-66.
+Dee, T. S. & Wyckoff, J. (2017). [A Lasting Impact: High-stakes teacher evaluations drive student success in Washington, D.C.](https://www.educationnext.org/a-lasting-impact-high-stakes-teacher-evaluations-student-success-washington-dc/). _Education Next 17_(4), 58-66.
 
 Dee, T. S. & Goldhaber, D. (2017). [Understanding and Addressing Teacher Shortages in the United States](https://www.hamiltonproject.org/papers/understanding_and_addressing_teacher_shortages_in_the_united_states). The Brookings Institution. 
 
@@ -28,12 +28,12 @@ Dee, T. S. & Gershenson, S. (2017). [Unconscious Bias in the Classroom: Evidence
 
 Herman, R., Dawson, P., Dee, T. S., Greene, J., Maynard, R., Redding, S., and Darwin, M. (2008). _[Turning Around Chronically Low-Performing Schools: A practice guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/7#tab-summary)_ (NCEE #2008- 4020). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. 
 
-Dee, T. S. (2006). [The Why Chromosome: How a teacher’s gender affects boys and girls](https://www.educationnext.org/the-why-chromosome/). _Education Next 6_(4), pp. 68-75.
+Dee, T. S. (2006). [The Why Chromosome: How a teacher’s gender affects boys and girls](https://www.educationnext.org/the-why-chromosome/). _Education Next 6_(4), 68-75.
 
-Dee, T. S. & Keys, B. (2005). [Dollars and Sense](https://www.educationnext.org/dollars-and-sense/) ._Education Next 5_(1), pp. 60-67.
+Dee, T. S. & Keys, B. (2005). [Dollars and Sense](https://www.educationnext.org/dollars-and-sense/) ._Education Next 5_(1), 60-67.
 
-Dee, T. S. (2004). [The Race Connection](https://www.educationnext.org/the-race-connection/). _Education Next 4_(2), pp. 53-59.
+Dee, T. S. (2004). [The Race Connection](https://www.educationnext.org/the-race-connection/). _Education Next 4_(2), 53-59.
 
-Dee, T. S. (June 21, 2004). [Unanswered Questions](/files/Baltimore Sun Op-Ed 06.21.2004.pdf). _Baltimore Sun_, page 11A. 
+Dee, T. S. (June 21, 2004). [Unanswered Questions](/files/Baltimore Sun Op-Ed 06.21.2004.pdf). _Baltimore Sun_, 11A. 
 
-Dee, T. S. (2003). [Learning to Earn](https://www.educationnext.org/learningtoearn/). _Education Next 3_(3), pp. 65-70.
+Dee, T. S. (2003). [Learning to Earn](https://www.educationnext.org/learningtoearn/). _Education Next 3_(3), 65-70.
