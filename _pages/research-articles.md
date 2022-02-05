@@ -56,79 +56,79 @@ Colman, S., Dee, T. S., & Joyce, T. (2013). [Do parental involvement laws deter 
 
 Bronchetti, E. T., Dee, T. S., Huffman, D. B., & Magenheim, E. (2013). [When a nudge isn't enough: Defaults and saving among low-income tax filers](/files/.pdf). _National Tax Journal, 66_(3), 609-634.
 
-Dee, T. S., Jacob, B., & Schwartz, N. L. (2013). The effects of NCLB on school resources and practices. Educational Evaluation and Policy Analysis, 35(2), 252-279.
+Dee, T. S., Jacob, B., & Schwartz, N. L. (2013). [The effects of NCLB on school resources and practices](/files.pdf). _Educational Evaluation and Policy Analysis, 35_(2), 252-279.
 
-Dee, T. S., & Jacob, B. A. (2012). Rational ignorance in education: A field experiment in student plagiarism. Journal of Human Resources, 47(2), 397-434.
+Dee, T. S., & Jacob, B. A. (2012). [Rational ignorance in education: A field experiment in student plagiarism](/files.pdf). _Journal of Human Resources, 47_(2), 397-434.
 
-Dee, T. S. (2011). Conditional cash penalties in education: Evidence from the Learnfare experiment. Economics of Education Review, 30(5), 924-937.
+Dee, T. S. (2011). [Conditional cash penalties in education: Evidence from the Learnfare experiment](/files.pdf). _Economics of Education Review, 30_(5), 924-937.
 
-Dee, T. S., & Jacob, B. (2011). The impact of No Child Left Behind on student achievement. Journal of Policy Analysis and management, 30(3), 418-446.
+Dee, T. S., & Jacob, B. (2011). [The impact of No Child Left Behind on student achievement](/files.pdf). _Journal of Policy Analysis and Management, 30_(3), 418-446.
 
-Dee, T. S., & West, M. R. (2011). The non-cognitive returns to class size. Educational Evaluation and Policy Analysis, 33(1), 23-46.
+Dee, T. S., & West, M. R. (2011). [The non-cognitive returns to class size](/files.pdf). _Educational Evaluation and Policy Analysis, 33_(1), 23-46.
 
 Dee, T. S., Jacob, B. A., Hoxby, C. M. & Ladd, H. F. (2010). [The impact of No Child Left Behind on students, teachers, and schools [with Comments and Discussion]](https://www.brookings.edu/bpea-articles/the-impact-of-no-child-left-behind-on-students-teachers-and-schools-with-comments-and-discussion/). _Brookings Papers on Economic Activity 2_, 149–207.
 
-Dee, T. S. (2009). Motorcycle helmets and traffic safety. Journal of Health Economics, 28(2), 398-412.
+Dee, T. S. (2009). [Motorcycle helmets and traffic safety](/files.pdf). _Journal of Health Economics, 28_(2), 398-412.
 
-Dee, T. S. (2008). Forsaking all others? The effects of same‐sex partnership laws on risky sex. The Economic Journal, 118(530), 1055-1078.
+Dee, T. S. (2008). [Forsaking all others? The effects of same‐sex partnership laws on risky sex](/files.pdf). _The Economic Journal, 118_(530), 1055-1078.
 
-Dee, T. S., & Cohodes, S. R. (2008). Out-of-field teachers and student achievement: Evidence from matched-pairs comparisons. Public Finance Review, 36(1), 7-32.
+Dee, T. S., & Cohodes, S. R. (2008). [Out-of-field teachers and student achievement: Evidence from matched-pairs comparisons](/files.pdf). _Public Finance Review, 36_(1), 7-32.
 
-Dee, T. S. (2007). Technology and voter intent: Evidence from the California recall election. The Review of Economics and Statistics, 89(4), 674-683.
+Dee, T. S. (2007). [Technology and voter intent: Evidence from the California recall election](/files.pdf). _The Review of Economics and Statistics, 89_(4), 674-683.
 
-Dee, T. S. (2007). Teachers and the gender gaps in student achievement. Journal of Human resources, 42(3), 528-554.
+Dee, T. S. (2007). [Teachers and the gender gaps in student achievement](/files.pdf). _Journal of Human Resources, 42_(3), 528-554.
 
-Morrisey, M. A., Grabowski, D. C., Dee, T. S., & Campbell, C. (2006). The strength of graduated drivers license programs and fatalities among teen drivers and passengers. Accident Analysis & Prevention, 38(1), 135-141.
+Morrisey, M. A., Grabowski, D. C., Dee, T. S., & Campbell, C. (2006). [The strength of graduated drivers license programs and fatalities among teen drivers and passengers](/files.pdf). _Accident Analysis & Prevention, 38_(1), 135-141.
 
 Dee, T. S., Ha, W., & Jacob, B. A. (2006). [The effects of school Size on parental involvement and social capital: Evidence from the ELS: 2002](http://www.jstor.org/stable/20067278). _Brookings Papers on Education Policy 9_, 77–97.
 
 Dee, T. S. (2005). [A teacher like me: Does race, ethnicity, or gender matter?](/files/aeap&p05.pdf). _American Economic Review 95_(2), 158-165.
 
-Dee, T. S. (2005). The effects of Catholic schooling on civic participation. International Tax and Public Finance, 12(5), 605-625.
+Dee, T. S. (2005). [The effects of Catholic schooling on civic participation](/files.pdf). _International Tax and Public Finance, 12_(5), 605-625.
 
-Dee, T. S., Grabowski, D. C., & Morrisey, M. A. (2005). Graduated driver licensing and teen traffic fatalities. Journal of health economics, 24(3), 571-589.
+Dee, T. S., Grabowski, D. C., & Morrisey, M. A. (2005). [Graduated driver licensing and teen traffic fatalities](/files.pdf). _Journal of Health Economics, 24_(3), 571-589.
 
-Dee, T. S. (2005). Expense preference and student achievement in school districts. Eastern Economic Journal, 31(1), 23-44.
+Dee, T. S. (2005). [Expense preference and student achievement in school districts](/files.pdf). _Eastern Economic Journal, 31_(1), 23-44.
 
-Dee, T. S., & Levine, J. (2004). The fate of new funding: Evidence from Massachusetts’ education finance reforms. Educational Evaluation and Policy Analysis, 26(3), 199-215.
+Dee, T. S., & Levine, J. (2004). [The fate of new funding: Evidence from Massachusetts’ education finance reforms](/files.pdf). _Educational Evaluation and Policy Analysis, 26_(3), 199-215.
 
-Dee, T. S., & Keys, B. J. (2004). Does merit pay reward good teachers? Evidence from a randomized experiment. Journal of Policy Analysis and Management, 23(3), 471-488.
+Dee, T. S., & Keys, B. J. (2004). [Does merit pay reward good teachers? Evidence from a randomized experiment](/files.pdf). _Journal of Policy Analysis and Management, 23_(3), 471-488.
 
-Dee, T. S. (2004). Are there civic returns to education?. Journal of public economics, 88(9-10), 1697-1720.
+Dee, T. S. (2004). [Are there civic returns to education?](/files.pdf). _Journal of Public Economics, 88_(9-10), 1697-1720.
 
-Dee, T. S. (2004). Teachers, race, and student achievement in a randomized experiment. Review of economics and statistics, 86(1), 195-210. Reprinted in J. List & A. C. Samak (Eds.), _[Field Experiments](https://www.e-elgar.com/shop/usd/field-experiments-9781781952245.html)_. Edward Elgar Publishing.
+Dee, T. S. (2004). [Teachers, race, and student achievement in a randomized experiment](/files.pdf). _Review of Economics and Statistics, 86_(1), 195-210. Reprinted in J. List & A. C. Samak (Eds.), _[Field Experiments](https://www.e-elgar.com/shop/usd/field-experiments-9781781952245.html)_. Edward Elgar Publishing.
 
-Dee, T. S., & Fu, H. (2004). Do charter schools skim students or drain resources?. Economics of Education Review, 23(3), 259-271.
+Dee, T. S., & Fu, H. (2004). [Do charter schools skim students or drain resources?](/files.pdf). _Economics of Education Review, 23_(3), 259-271.
 
-Dee, T. S. (2004). Lotteries, litigation, and education finance. Southern Economic Journal, 70(3), 584-599.
+Dee, T. S. (2004). [Lotteries, litigation, and education finance](/files.pdf). _Southern Economic Journal, 70_(3), 584-599.
 
-Dee, T. S., & Sela, R. J. (2003). The fatality effects of highway speed limits by gender and age. Economics Letters, 79(3), 401-408.
+Dee, T. S., & Sela, R. J. (2003). [The fatality effects of highway speed limits by gender and age](/files.pdf). _Economics Letters, 79_(3), 401-408.
 
-Chesson, H. W., Dee, T. S., & Aral, S. O. (2003). AIDS mortality may have contributed to the decline in syphilis rates in the United States in the 1990s. Sexually transmitted diseases, 419-424.
+Chesson, H. W., Dee, T. S., & Aral, S. O. (2003). [AIDS mortality may have contributed to the decline in syphilis rates in the United States in the 1990s](/files.pdf). _Sexually Transmitted Diseases 30_(5), 419-424.
 
-Dee, T. S., & Evans, W. N. (2003). Teen drinking and educational attainment: evidence from two-sample instrumental variables estimates. Journal of Labor Economics, 21(1), 178-209.
+Dee, T. S., & Evans, W. N. (2003). [Teen drinking and educational attainment: evidence from two-sample instrumental variables estimates](/files.pdf). _Journal of Labor Economics, 21_(1), 178-209.
 
-Dee, T. S. (2003). Until death do you part: The effects of unilateral divorce on spousal homicides. Economic Inquiry, 41(1), 163-182.
+Dee, T. S. (2003). [Until death do you part: The effects of unilateral divorce on spousal homicides](/files.pdf). _Economic Inquiry, 41_(1), 163-182.
 
-Dee, T. S. (2001). The effects of minimum legal drinking ages on teen childbearing. Journal of Human Resources, 36(4).
+Dee, T. S. (2001). [The effects of minimum legal drinking ages on teen childbearing](/files.pdf). _Journal of Human Resources, 36_(4), 823-838.
 
-Dee, T. S., & Evans, W. N. (2001). Behavior policies and teen traffic safety. American Economic Review, 91(2), 91-96.
+Dee, T. S., & Evans, W. N. (2001). [Behavior policies and teen traffic safety](/files.pdf). _American Economic Review, 91_(2), 91-96.
 
-Dee, T. S. (2001). Alcohol abuse and economic conditions: evidence from repeated cross‐sections of individual‐level data. Health economics, 10(3), 257-270.
+Dee, T. S. (2001). [Alcohol abuse and economic conditions: evidence from repeated cross‐sections of individual‐level data](/files.pdf). _Health Economics, 10_(3), 257-270.
 
-Dee, T. S. (2001). Does setting limits save lives? The case of 0.08 BAC laws. Journal of Policy Analysis and Management 20(1), 111-128.
+Dee, T. S. (2001). [Does setting limits save lives? The case of 0.08 BAC laws](/files.pdf). _Journal of Policy Analysis and Management 20_(1), 111-128.
 
-Dee, T. S. (2000). The capitalization of education finance reforms. The Journal of Law and Economics, 43(1), 185-214.
+Dee, T. S. (2000). [The capitalization of education finance reforms](/files.pdf). _The Journal of Law and Economics, 43_(1), 185-214.
 
-Dee, T. S. (1999). The complementarity of teen smoking and drinking. Journal of Health Economics, 18(6), 769-793. Reprinted in J. Cawley & D.S. Kenkel (Eds.), _[The Economics of Health Behaviours](https://www.e-elgar.com/shop/usd/the-economics-of-health-behaviours-9781845425289.html)_. Edward Elgar Publishing.
+Dee, T. S. (1999). [The complementarity of teen smoking and drinking](/files.pdf). _Journal of Health Economics, 18_(6), 769-793. Reprinted in J. Cawley & D.S. Kenkel (Eds.), _[The Economics of Health Behaviours](https://www.e-elgar.com/shop/usd/the-economics-of-health-behaviours-9781845425289.html)_. Edward Elgar Publishing.
 
-Dee, T. S., & Jackson, L. A. (1999). Who loses HOPE? Attrition from Georgia's college scholarship program. Southern Economic Journal, 66(2), 379-390.
+Dee, T. S., & Jackson, L. A. (1999). [Who loses HOPE? Attrition from Georgia's college scholarship program](/files.pdf). _Southern Economic Journal, 66_(2), 379-390.
 
-Dee, T. S., Evans, W. N., & Murray, S. E. (1999). Data watch: Research data in the economics of education. Journal of Economic Perspectives, 13(3), 205-216.
+Dee, T. S., Evans, W. N., & Murray, S. E. (1999). [Data watch: Research data in the economics of education](/files.pdf). _Journal of Economic Perspectives, 13_(3), 205-216.
 
-Dee, T. S. (1999). State alcohol policies, teen drinking and traffic fatalities. Journal of public Economics, 72(2), 289-315. Reprinted in J. Cawley & D.S. Kenkel (Eds.), _[The Economics of Health Behaviours](https://www.e-elgar.com/shop/usd/the-economics-of-health-behaviours-9781845425289.html)_. Edward Elgar Publishing.
+Dee, T. S. (1999). [State alcohol policies, teen drinking and traffic fatalities](/files.pdf). _Journal of Public Economics, 72_(2), 289-315. Reprinted in J. Cawley & D.S. Kenkel (Eds.), _[The Economics of Health Behaviours](https://www.e-elgar.com/shop/usd/the-economics-of-health-behaviours-9781845425289.html)_. Edward Elgar Publishing.
 
-Dee, T. S. (1998). Competition and the quality of public schools. Economics of Education review, 17(4), 419-427.
+Dee, T. S. (1998). [Competition and the quality of public schools](/files.pdf). _Economics of Education review, 17_(4), 419-427.
 
-Dee, T. S. (1998). Reconsidering the effects of seat belt laws and their enforcement status. Accident Analysis & Prevention, 30(1), 1-10.
+Dee, T. S. (1998). [Reconsidering the effects of seat belt laws and their enforcement status](/files.pdf). _Accident Analysis & Prevention, 30_(1), 1-10.
 
