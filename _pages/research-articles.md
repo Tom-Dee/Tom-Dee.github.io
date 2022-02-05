@@ -4,28 +4,28 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Pyne, J., Messner, E. & Dee, T. S. (in press). [The Dynamic Effects of a Summer Learning Program on Behavioral Engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy_.
+Pyne, J., Messner, E. & Dee, T. S. (in press). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy_.
 
 Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). _Proceedings of the National Academy of Sciences, 118_(37).
 
-Dee, T.S. & Penner, E. (2021). [My Brother’s Keeper? The Impact of Targeted Educational Supports](/files/jpam 2021.pdf). _Journal of Policy Analysis and Management 40_(4), 1171-1196. 
+Dee, T.S. & Penner, E. (2021). [My brother’s ieeper? The impact of targeted educational supports](/files/jpam 2021.pdf). _Journal of Policy Analysis and Management 40_(4), 1171-1196. 
 
-Dee, T. S. & Murphy, M. (2021). [Patterns in the Pandemic Decline of Public-School Enrollment](/files/Ed Researcher 2021.pdf). _Educational Researcher 50_(8), 566-569.
+Dee, T. S. & Murphy, M. (2021). [Patterns in the pandemic decline of public-school enrollment](/files/Ed Researcher 2021.pdf). _Educational Researcher 50_(8), 566-569.
 
-Dee, T. S. & Domingue, B. (2021). [Assessing the Impact of a Test Question: Evidence from the ‘Underground Railroad’ Controversy](/files/EMIP 2021.pdf). _Educational Measurement: Issues and Practice 40_(2), 81-88.
+Dee, T. S. & Domingue, B. (2021). [Assessing the impact of a test question: Evidence from the ‘Underground Railroad’ controversy](/files/EMIP 2021.pdf). _Educational Measurement: Issues and Practice 40_(2), 81-88.
 
-Dee, T. S., James, J. & Wyckoff, J. (2021). [Is Effective Teacher Evaluation Sustainable? Evidence from DCPS](/files/EFP Dee James Wyckoff 2021.pdf). _Education Finance and Policy 16_(2), 313-346.
+Dee, T. S., James, J. & Wyckoff, J. (2021). [Is effective teacher evaluation sustainable? Evidence from DCPS](/files/EFP Dee James Wyckoff 2021.pdf). _Education Finance and Policy 16_(2), 313-346.
 
-Dee, T. S. & Murphy, M. (2020). [Vanished Classmates: The Effects of Local Immigration Enforcement on Student Enrollment](/files/AERJ 2020.pdf). _American Educational Research Journal 57_(2), 694-727.
+Dee, T. S. & Murphy, M. (2020). [Vanished classmates: The effects of local immigration enforcement on student enrollment](/files/AERJ 2020.pdf). _American Educational Research Journal 57_(2), 694-727.
 
-Bonilla, S. & Dee, T. S. (2020). [The Effects of School Reform under NCLB Waivers: Evidence from Focus Schools in Kentucky](/files/Bonilla Dee EFP 2020.pdf). _Education Finance and Policy 15_(1), 75-103.
+Bonilla, S. & Dee, T. S. (2020). [The effects of school reform under NCLB waivers: Evidence from Focus Schools in Kentucky](/files/Bonilla Dee EFP 2020.pdf). _Education Finance and Policy 15_(1), 75-103.
 
 
 Dee, T. S. (2005). [A teacher like me: Does race, ethnicity, or gender matter?](/files/aeap&p05.pdf). _American Economic Review 95_(2), 158-165.
 
-Dee, T. S., Jacob, B. A., Hoxby, C. M. & Ladd, H. F. (2010). [The Impact of No Child Left Behind on Students, Teachers, and Schools [with Comments and Discussion]](https://www.brookings.edu/bpea-articles/the-impact-of-no-child-left-behind-on-students-teachers-and-schools-with-comments-and-discussion/). _Brookings Papers on Economic Activity 2_, 149–207.
+Dee, T. S., Jacob, B. A., Hoxby, C. M. & Ladd, H. F. (2010). [The impact of No Child Left Behind on students, teachers, and schools [with Comments and Discussion]](https://www.brookings.edu/bpea-articles/the-impact-of-no-child-left-behind-on-students-teachers-and-schools-with-comments-and-discussion/). _Brookings Papers on Economic Activity 2_, 149–207.
 
-Dee, T. S., Ha, W., & Jacob, B. A. (2006). [The Effects of School Size on Parental Involvement and Social Capital: Evidence from the ELS: 2002](http://www.jstor.org/stable/20067278). _Brookings Papers on Education Policy 9_, 77–97.
+Dee, T. S., Ha, W., & Jacob, B. A. (2006). [The effects of school Size on parental involvement and social capital: Evidence from the ELS: 2002](http://www.jstor.org/stable/20067278). _Brookings Papers on Education Policy 9_, 77–97.
 
 
 “Text as Data Methods for Education Researchers and Applications for Gender Equity,” with L. Fesler, R. Baker, and B. Evans, Journal of Research on Educational Effectiveness 12(4), 2019, 707-727.
