@@ -20,120 +20,115 @@ Dee, T. S. & Murphy, M. (2020). [Vanished classmates: The effects of local immig
 
 Bonilla, S. & Dee, T. S. (2020). [The effects of school reform under NCLB waivers: Evidence from Focus Schools in Kentucky](/files/Bonilla Dee EFP 2020.pdf). _Education Finance and Policy 15_(1), 75-103.
 
+Fesler, L., Dee, T. S., Baker, R. & Evans. B. (2019). [Text as data methods for education researchers and applications for gender equity](/files/.pdf). _Journal of Research on Educational Effectiveness 12_(4), 707-727.
 
-Dee, T. S. (2005). [A teacher like me: Does race, ethnicity, or gender matter?](/files/aeap&p05.pdf). _American Economic Review 95_(2), 158-165.
+Bassok, D., Dee, T. S., & Latham, S. (2019). [The effects of accountability incentives in early childhood education](/files/.pdf). _Journal of Policy Analysis and Management 38_(4), 838-866. *Winner of the [2019 Raymond Vernon Memorial Award](https://www.appam.org/jpam-announces-2019-raymond-vernon-memorial-award-winner/) from the Association for Public Policy Analysis and Management (APPAM).
+
+Dee, T. S. & Dizon-Ross, E. (2019). [School performance, accountability, and waiver reforms: Evidence from Louisiana](/files/.pdf). _Educational Evaluation and Policy Analysis, 41_(3), 316-349.
+
+Dee, T. S., Dobbie, W., Jacob, B. A., Rockoff, J. (2019). [The Causes and Consequences of Test Score Manipulation: Evidence from the New York Regents Examinations](/files/.pdf). _American Economic Journal: Applied Economics 11_(3), 382-423.
+
+Chaturapruek, S., Dee, T. S., Johari, R., Kizilcec, R. F., & Stevens, M. L. (2018, June). [How a data-driven course planning tool affects college students' GPA: evidence from two field experiments](/files/3231644.3231668.pdf). In Proceedings of the fifth annual ACM conference on learning at scale (pp. 1-10).
+
+Dee, T. S., & Sievertsen, H. H. (2018). The gift of time? School starting age and mental health. Health economics, 27(5), 781-802.
+
+Dee, T. S., & Penner, E. K. (2017). The causal effects of cultural relevance: Evidence from an ethnic studies curriculum. American Educational Research Journal, 54(1), 127-166.
+
+Adnot, M., Dee, T., Katz, V., & Wyckoff, J. (2017). Teacher turnover, teacher quality, and student achievement in DCPS. Educational Evaluation and Policy Analysis, 39(1), 54-76.
+
+Barr, A. C., & Dee, T. S. (2016). Property taxes and politicians: evidence from school budget elections. National Tax Journal, 69(3), 517-544.
+
+Baker, R., Evans, B., & Dee, T. (2016). A randomized experiment testing the efficacy of a scheduling nudge in a Massive Open Online Course (MOOC). AERA Open, 2(4).
+
+Chang, S., Dee, T. S., Tse, C. W., & Yu, L. (2016). Be a Good Samaritan to a Good Samaritan: Field evidence of other-regarding preferences in China. China Economic Review, 41, 23-33.
+
+Evans, B. J., Baker, R. B., & Dee, T. S. (2016). Persistence patterns in massive open online courses (MOOCs). The Journal of Higher Education, 87(2), 206-242.
+
+Dee, T., & Lan, X. (2015). The achievement and course-taking effects of magnet schools: Regression-discontinuity evidence from urban China. Economics of Education Review, 47, 128-142.
+
+Dee, T. S., & Wyckoff, J. (2015). Incentives, selection, and teacher performance: Evidence from IMPACT. Journal of Policy Analysis and Management, 34(2), 267-297.. 
+*Winner of the [2015 Raymond Vernon Memorial Award](https://www.appam.org/about-appam/awards/raymond-vernon-memorial-award/) from the Association for Public Policy Analysis and Management (APPAM) 
+
+Dee, T. S. (2015). Social identity and achievement gaps: Evidence from an affirmation intervention. Journal of Research on Educational Effectiveness, 8(2), 149-168.
+
+Dee, T. S. (2014). Stereotype threat and the student‐athlete. Economic Inquiry, 52(1), 173-182.
+
+Colman, S., Dee, T. S., & Joyce, T. (2013). Do parental involvement laws deter risky teen sex?. Journal of health economics, 32(5), 873-880.
+
+Bronchetti, E. T., Dee, T. S., Huffman, D. B., & Magenheim, E. (2013). When a nudge isn't enough: Defaults and saving among low-income tax filers. National Tax Journal, 66(3), 609-634.
+
+Dee, T. S., Jacob, B., & Schwartz, N. L. (2013). The effects of NCLB on school resources and practices. Educational Evaluation and Policy Analysis, 35(2), 252-279.
+
+Dee, T. S., & Jacob, B. A. (2012). Rational ignorance in education a field experiment in student plagiarism. Journal of Human Resources, 47(2), 397-434.
+
+Dee, T. S. (2011). Conditional cash penalties in education: Evidence from the Learnfare experiment. Economics of Education Review, 30(5), 924-937.
+
+Dee, T. S., & Jacob, B. (2011). The impact of No Child Left Behind on student achievement. Journal of Policy Analysis and management, 30(3), 418-446.
+
+Dee, T. S., & West, M. R. (2011). The non-cognitive returns to class size. Educational Evaluation and Policy Analysis, 33(1), 23-46.
 
 Dee, T. S., Jacob, B. A., Hoxby, C. M. & Ladd, H. F. (2010). [The impact of No Child Left Behind on students, teachers, and schools [with Comments and Discussion]](https://www.brookings.edu/bpea-articles/the-impact-of-no-child-left-behind-on-students-teachers-and-schools-with-comments-and-discussion/). _Brookings Papers on Economic Activity 2_, 149–207.
 
+Dee, T. S. (2009). Motorcycle helmets and traffic safety. Journal of Health Economics, 28(2), 398-412.
+
+Dee, T. S. (2008). Forsaking all others? The effects of same‐sex partnership laws on risky sex. The Economic Journal, 118(530), 1055-1078.
+
+Dee, T. S., & Cohodes, S. R. (2008). Out-of-field teachers and student achievement: Evidence from matched-pairs comparisons. Public Finance Review, 36(1), 7-32.
+
+Dee, T. S. (2007). Technology and voter intent: Evidence from the California recall election. The Review of Economics and Statistics, 89(4), 674-683.
+
+Dee, T. S. (2007). Teachers and the gender gaps in student achievement. Journal of Human resources, 42(3), 528-554.
+
+Morrisey, M. A., Grabowski, D. C., Dee, T. S., & Campbell, C. (2006). The strength of graduated drivers license programs and fatalities among teen drivers and passengers. Accident Analysis & Prevention, 38(1), 135-141.
+
 Dee, T. S., Ha, W., & Jacob, B. A. (2006). [The effects of school Size on parental involvement and social capital: Evidence from the ELS: 2002](http://www.jstor.org/stable/20067278). _Brookings Papers on Education Policy 9_, 77–97.
 
+Dee, T. S. (2005). [A teacher like me: Does race, ethnicity, or gender matter?](/files/aeap&p05.pdf). _American Economic Review 95_(2), 158-165.
 
-“Text as Data Methods for Education Researchers and Applications for Gender Equity,” with L. Fesler, R. Baker, and B. Evans, Journal of Research on Educational Effectiveness 12(4), 2019, 707-727.
+Dee, T. S. (2005). The effects of Catholic schooling on civic participation. International Tax and Public Finance, 12(5), 605-625.
 
-“The Effects of Accountability Incentives in Early Childhood Education,” with Daphna Bassok and Scott Latham, Journal of Policy Analysis and Management 38(4), 2019, 838-866. 
-*Winner of the 2019 Raymond Vernon Memorial Award from the Association for Public Policy Analysis and Management (APPAM) 
+Dee, T. S., Grabowski, D. C., & Morrisey, M. A. (2005). Graduated driver licensing and teen traffic fatalities. Journal of health economics, 24(3), 571-589.
 
-“School Performance, Accountability, and Waiver Reforms: Evidence from Louisiana,” with Elise Dizon-Ross, Educational Evaluation and Policy Analysis, 41(3), 2019, 316-349.
+Dee, T. S. (2005). Expense preference and student achievement in school districts. Eastern Economic Journal, 31(1), 23-44.
 
-“The Causes and Consequences of Test Score Manipulation: Evidence from the New York Regents Examinations,” with Will Dobbie, Brian Jacob, and Jonah Rockoff.  American Economic Journal: Applied Economics 11(3), 2019, 382-423.
+Dee, T. S., & Levine, J. (2004). The fate of new funding: Evidence from Massachusetts’ education finance reforms. Educational Evaluation and Policy Analysis, 26(3), 199-215.
 
-“How a data-driven course planning tool affects college students’ GPA: Evidence from two field experiments,” with Sorathan Chaturapruek, Ramesh Johari, René F. Kizilcec, & Mitchell L. Stevens, Proceedings of the Fifth ACM Conference on Learning at Scale (L@S), 2018. 
+Dee, T. S., & Keys, B. J. (2004). Does merit pay reward good teachers? Evidence from a randomized experiment. Journal of Policy Analysis and Management, 23(3), 471-488.
 
-“The Gift of Time? School Starting Age and Mental Health,” with Hans Henrik Sievertsen, Health Economics, 27(5), May 2018, 781-802. 
+Dee, T. S. (2004). Are there civic returns to education?. Journal of public economics, 88(9-10), 1697-1720.
 
-“The Causal Effects of Cultural Relevance: Evidence from an Ethnic Studies Curriculum,” with Emily Penner, American Educational Research Journal, 54(1), 2017, 127-166.
+Dee, T. S. (2004). Teachers, race, and student achievement in a randomized experiment. Review of economics and statistics, 86(1), 195-210. Reprinted in J. List & A. C. Samak (Eds.), _[Field Experiments](https://www.e-elgar.com/shop/usd/field-experiments-9781781952245.html)_. Edward Elgar Publishing.
 
-“Teacher Turnover, Teacher Quality, and Student Achievement in DCPS,” with Melinda Adnot, Veronica Katz, and James Wyckoff, Educational Evaluation and Policy Analysis, 39(1), 2017, 54-76.
+Dee, T. S., & Fu, H. (2004). Do charter schools skim students or drain resources?. Economics of Education Review, 23(3), 259-271.
 
-“Property Taxes and Politicians: Evidence from School Budget Elections,” with Andrew Barr, National Tax Journal, 69(3), 517, 2016.
+Dee, T. S. (2004). Lotteries, litigation, and education finance. Southern Economic Journal, 70(3), 584-599.
 
-"A Randomized Experiment Testing the Efficacy of a Scheduling Nudge in a Massive Open Online Course (MOOC)" with Rachel Baker and Brent Evans, AERA Open, 2016.
+Dee, T. S., & Sela, R. J. (2003). The fatality effects of highway speed limits by gender and age. Economics Letters, 79(3), 401-408.
 
-“Be a Good Samaritan to a Good Samaritan: Field Evidence of Other-Regarding Preferences in China,” with Simon Chang, Chun Wing Tse, and Li Yu, China Economic Review 41, December 2016, pages 23-33.
+Chesson, H. W., Dee, T. S., & Aral, S. O. (2003). AIDS mortality may have contributed to the decline in syphilis rates in the United States in the 1990s. Sexually transmitted diseases, 419-424.
 
-"Persistence Patterns in Massive Open Online Courses (MOOCs)," with Rachel Baker and Brent Evans, Journal of Higher Education 87(2), 206-242, 2016.
+Dee, T. S., & Evans, W. N. (2003). Teen drinking and educational attainment: evidence from two-sample instrumental variables estimates. Journal of Labor Economics, 21(1), 178-209.
 
-“The Achievement and Course-Taking Effects of Magnet Schools: Regression-Discontinuity Evidence from Urban China,” with Xiaohuan Lan, Economics of Education Review 47, 128-142, 2015.
+Dee, T. S. (2003). Until death do you part: The effects of unilateral divorce on spousal homicides. Economic Inquiry, 41(1), 163-182.
 
-“Incentives, Selection, and Teacher Performance: Evidence from IMPACT,” with James Wyckoff, Journal of Policy Analysis and Management 34 (2), Spring 2015, 267–297. 
-*Winner of the 2015 Raymond Vernon Memorial Award from the Association for Public Policy Analysis and Management (APPAM) 
+Dee, T. S. (2001). The effects of minimum legal drinking ages on teen childbearing. Journal of Human Resources, 36(4).
 
-“Social Identity and Achievement Gaps: Evidence from an Affirmation Intervention,” Journal of Research on Educational Effectiveness 8(2), 149-168, 2015.
+Dee, T. S., & Evans, W. N. (2001). Behavior policies and teen traffic safety. American Economic Review, 91(2), 91-96.
 
-“Stereotype Threat and the Student-Athlete,” Economic Inquiry 52(1), January 2014, 173-182. 
+Dee, T. S. (2001). Alcohol abuse and economic conditions: evidence from repeated cross‐sections of individual‐level data. Health economics, 10(3), 257-270.
 
-“Do Parental Involvement Laws Deter Risky Teen Sex?” with Silvie Colman and Ted Joyce, Journal of Health Economics 32(5), September 2013, 873-880.
+Dee, T. S. (2001). Does setting limits save lives? The case of 0.08 BAC laws. Journal of Policy Analysis and Management 20(1), 111-128.
 
-“When a Nudge isn’t Enough: Defaults and Saving among Low-Income Tax Filers,” with Erin Bronchetti, David Huffman, and Ellen Magenheim, National Tax Journal 66(3), September 2013, 609-634.
+Dee, T. S. (2000). The capitalization of education finance reforms. The Journal of Law and Economics, 43(1), 185-214.
 
-“The Effects of NCLB on School Resources and Practices,” with Brian Jacob and Nathaniel Schwartz Educational Evaluation and Policy Analysis 35(2), June 2013, pp. 252 - 288. 
+Dee, T. S. (1999). The complementarity of teen smoking and drinking. Journal of Health Economics, 18(6), 769-793. Reprinted in J. Cawley & D.S. Kenkel (Eds.), _[The Economics of Health Behaviours](https://www.e-elgar.com/shop/usd/the-economics-of-health-behaviours-9781845425289.html)_. Edward Elgar Publishing.
 
-“Rational Ignorance in Education: A Field Experiment in Student Plagiarism,” with Brian Jacob, Journal of Human Resources 47(2), Spring 2012: 397-434. 
+Dee, T. S., & Jackson, L. A. (1999). Who loses HOPE? Attrition from Georgia's college scholarship program. Southern Economic Journal, 66(2), 379-390.
 
-“Conditional Cash Penalties in Education: Evidence from the Learnfare Experiment,” Economics of Education Review 30(5), October 2011, 924-937.
+Dee, T. S., Evans, W. N., & Murray, S. E. (1999). Data watch: Research data in the economics of education. Journal of Economic Perspectives, 13(3), 205-216.
 
-“The Impact of the No Child Left Behind Act on Student Achievement,” with Brian Jacob, Journal of Policy Analysis and Management 30(3), Summer 2011, 418-446.
+Dee, T. S. (1999). State alcohol policies, teen drinking and traffic fatalities. Journal of public Economics, 72(2), 289-315. Reprinted in J. Cawley & D.S. Kenkel (Eds.), _[The Economics of Health Behaviours](https://www.e-elgar.com/shop/usd/the-economics-of-health-behaviours-9781845425289.html)_. Edward Elgar Publishing.
 
-“The Non-cognitive Returns to Class Size,” with Martin West, Educational Evaluation and Policy Analysis 33(1), March 2011, 23-46.
+Dee, T. S. (1998). Competition and the quality of public schools. Economics of Education review, 17(4), 419-427.
 
-“Motorcycle Helmets and Traffic Safety” Journal of Health Economics 28(2), March 2009, pages 398-412.
-
-“Forsaking All Others? The Effects of Same-Sex Partnership Laws on Risky Sex” Economic Journal 118(530), July 2008, 1055-1078.
-
-“Out-of-Field Teaching and Student Achievement: Evidence from ‘Matched-Pairs’ Comparisons” with Sarah Cohodes ’05, Public Finance Review 36(1), January 2008, 7-32.
-
-“Technology and Voter Intent: Evidence from the California Recall Election,” The Review of Economics and Statistics 89(4), November 2007, 674-683.
-
-“Teachers and the Gender Gaps in Student Achievement,” Journal of Human Resources 42(3), Summer 2007, pages 528-554.
-
-“The Strength of Graduated Drivers License Programs and Fatalities among Teen Drivers and Passengers,” with David C. Grabowski, Michael A. Morrisey, and Christine Campbell, Accident Analysis and Prevention 38(1), January 2006, pages 135-141.
-
-“A Teacher Like Me: Does Race, Ethnicity or Gender Matter?” American Economic Review 95(2), May 2005, pages 158-165.
-
-“The Effects of Catholic Schooling on Civic Participation” International Tax and Public Finance 12(5), September 2005, 605-625. 
-
-“Graduated Driver Licensing and Teen Traffic Fatalities,” with David C. Grabowski and Michael A. Morrisey, Journal of Health Economics 24(3), May 2005, pages 571-589.
-
-“Expense Preference and Student Achievement in School Districts,” Eastern Economic Journal 31(1), Winter 2005, pages 23-44.
-
-“The Fate of New Funding: Evidence from Massachusetts' Education Finance Reforms,” with Jeffrey Levine '00, Educational Evaluation and Policy Analysis 26(3), Fall 2004, pages 199-215.
-
-“Does Merit Pay Reward Good Teachers? Evidence from a Randomized Experiment,” with Benjamin Keys '01, Journal of Policy Analysis and Management, 23(3), Summer 2004, pages 471-488. 
-
-“Are There Civic Returns to Education?” Journal of Public Economics 88(9), August 2004, pages 1697-1720.
-
-“Teachers, Race and Student Achievement in a Randomized Experiment,” The Review of Economics and Statistics 86(1), February 2004, pages 195-210. To be reprinted in Field Experiments, John List and Anya C. Samak (editors), Edward Elgar Publishing.
-
-“Do Charter Schools Skim Students or Drain Resources?” with Helen Fu '01, Economics of Education Review 23(3), June 2004, pages 259-271.
-
-“Lotteries, Litigation and Education Finance,” Southern Economic Journal 70(3), January 2004, pages 584-599.
-
-“The Fatality Effects of Highway Speed Limits by Gender and Age,” with Rebecca Sela '02, Economics Letters 79(3), June 2003, pages 401-408.
-
-“AIDS Mortality May Have Contributed to the Decline in Syphilis Rates in the United States in the 1990's,” with Harrell W. Chesson and Sevgi O Aral, Sexually Transmitted Diseases 30(5), May 2003, pages 419-424.
-
-“Teen Drinking and Educational Attainment: Evidence from Two-Sample Instrumental Variables (TSIV) Estimates,” with William N. Evans, Journal of Labor Economics 21(1), January 2003, pages 178-209. 
-
-“Until Death Do You Part: The Effects of Unilateral Divorce on Spousal Homicides,” Economic Inquiry 41(1), January 2003, pages 163-182.
-
-“The Effects of Minimum Legal Drinking Ages on Teen Childbearing,” Journal of Human Resources 36(4), Fall 2001, pages 823-828.
-
-“Behavioral Policies and Teen Traffic Safety,” with William N. Evans, American Economic Review 91(2), May 2001, pages 91-96. 
-
-“Alcohol Abuse and Economic Conditions: Evidence from Repeated Cross-Sections of Individual-Level Data,” Health Economics 10(3), April 2001, pages 257-270. 
-
-“Does Setting Limits Save Lives? The Case of 0.08 BAC Laws,” Journal of Policy Analysis and Management 20(1), 2001, pages 113-130. 
-
-“The Capitalization of Education Finance Reforms,” Journal of Law and Economics 43(1), April 2000, pages185-214. 
-
-“The Complementarity of Teen Smoking and Drinking,” Journal of Health Economics 18(6), December 1999, pages 767-773.  Reprinted in The Economics of Health Behaviours, John Cawley and Donald S. Kenkel (editors), Edward Elgar Publishing, 2008.
-
-“Who Loses HOPE? Attrition from Georgia's College Scholarship Program,” with Linda Jackson, Southern Economic Journal 66(2), October 1999, pages 379-390. 
-
-“Data Watch: Research Data in the Economics of Education” with William N. Evans and Sheila Murray, Journal of Economic Perspectives, Summer 1999, pages 205-216.
-
-“State Alcohol Policies, Teen Drinking and Traffic Fatalities,” Journal of Public Economics 72 (2), 1999, pages 289-315. Reprinted in The Economics of Health Behaviours, John Cawley and Donald S. Kenkel (editors), Edward Elgar Publishing, 2008.
-
-“Competition and the Quality of Public Schools,” Economics of Education Review 17 (4), 1998, pages 419-427.
-
-“Reconsidering the Effects of Seat Belt Laws and Their Enforcement Status,” Accident Analysis and Prevention 30 (1), 1998, pages 1-10.
+Dee, T. S. (1998). Reconsidering the effects of seat belt laws and their enforcement status. Accident Analysis & Prevention, 30(1), 1-10.
