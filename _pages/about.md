@@ -29,8 +29,3 @@ August 19, 2021 — I discussed remote learning and school reopenings at an ["In
 
 August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the New York Times discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
 
-
-(The Pandemic Exodus: Kinderga
-
-The New York Times 
-
