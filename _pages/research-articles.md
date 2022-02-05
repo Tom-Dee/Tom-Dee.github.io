@@ -131,3 +131,4 @@ Dee, T. S. (1999). State alcohol policies, teen drinking and traffic fatalities.
 Dee, T. S. (1998). Competition and the quality of public schools. Economics of Education review, 17(4), 419-427.
 
 Dee, T. S. (1998). Reconsidering the effects of seat belt laws and their enforcement status. Accident Analysis & Prevention, 30(1), 1-10.
+
