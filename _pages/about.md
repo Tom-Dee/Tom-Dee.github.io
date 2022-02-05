@@ -20,6 +20,8 @@ December 17, 2021 — Our work on the Stanford School Enrollment Project with [B
 
 December 15, 2021 — Our recent research produced two of the ["16 Charts that Changed the Way We Looked at America's Schools in 2021"](https://www.the74million.org/article/16-charts-that-changed-the-way-we-looked-at-americas-schools-in-2021/).
 
+December 6, 2021 — Our Bay Area NBC affiliate discusses the [Gardner Center](https://gardnercenter.stanford.edu)'s ongoing partnership work on fielding [mental-health first responders](https://www.nbcbayarea.com/news/local/san-mateo-county-launches-mental-health-crisis-response-pilot-in-four-cities/2748749/).
+
 September 6, 2021 — A study by Professors Sade Bonilla, Emily Penner, and me on the [longer-run effects](https://news.stanford.edu/2021/09/06/research-finds-sustained-impact-ethnic-studies-class/) of a high-school ethnic-studies course is out at the [Proceedings of the National Academy of the Sciences (PNAS)](https://www.pnas.org/content/118/37/e2026386118).
 
 August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of school-reopening policies during the COVID-19 pandemic is available on NBER's Youtube channel: 
