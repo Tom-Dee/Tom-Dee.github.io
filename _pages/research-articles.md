@@ -71,6 +71,7 @@ Dee, T. S., & West, M. R. (2011). [The non-cognitive returns to class size](/fil
 Dee, T. S., Jacob, B. A., Hoxby, C. M. & Ladd, H. F. (2010). [The impact of No Child Left Behind on students, teachers, and schools [with Comments and Discussion]](https://www.brookings.edu/bpea-articles/the-impact-of-no-child-left-behind-on-students-teachers-and-schools-with-comments-and-discussion/). _Brookings Papers on Economic Activity 2_, 149–207.
 
 Dee, T. S. (2009). [Motorcycle helmets and traffic safety](/files/JHE2009.pdf). _Journal of Health Economics, 28_(2), 398-412.
+     Download data [here](/files/Dee_JHE_2009.zip).
 
 Dee, T. S. (2008). [Forsaking all others? The effects of same‐sex partnership laws on risky sex](/files/EJ2008.pdf). _The Economic Journal, 118_(530), 1055-1078.
 
