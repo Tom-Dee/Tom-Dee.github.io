@@ -12,6 +12,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 March 21, 2022 — Professors Sade Bonilla, Emily Penner, and I will discuss "Understanding the Opportunities and Challenges of Teaching Ethnic Studies" as part of "[Diálogos Virtuales — A Lecture-Discussion Series on Diversity, Equity, Inclusion & the International Dimensions of Education](https://education.sdsu.edu/about/dei-ia/diversity/dialogos) at San Diego State University.
 
+February 9, 2022 — I spoke with [Time Magazine](https://time.com/6146541/oakland-schools-closing-enrollment/) about enrollment declnies and the controversial school closures in Oakland.
+
 January 19, 2022 — I share my thoughts on what makes researcher-practitioner partnerships (RPPs) effective in an [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-what-it-takes-for-universities-to-conduct-useful-education-research/2022/01).
 
 December 23, 2021 — My school-reopening [study](/files/w29156.pdf) with Stanford doctoral student, [Elizabeth Huffaker](https://cepa.stanford.edu/people/elizabeth-huffaker), and Cheryl Phillips and Eric Sagara of [Big Local News](https://biglocalnews.org) is chosen as [the top education study of 2021](https://fordhaminstitute.org/national/commentary/counting-down-top-education-studies-2021) by the Fordham Institute.
