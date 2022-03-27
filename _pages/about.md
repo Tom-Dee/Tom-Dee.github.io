@@ -10,17 +10,17 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-March 26, 2020 — I spoke with the Washington Post about "[Montgomery County schools’ anti-racist audit to examine its curriculums](https://www.washingtonpost.com/education/2022/03/26/montgomery-county-schools-antiracism-audit/) [sic]."
+March 26, 2020 — I spoke with the _Washington Post_ about "[Montgomery County schools’ anti-racist audit to examine its curriculums](https://www.washingtonpost.com/education/2022/03/26/montgomery-county-schools-antiracism-audit/) [sic]."
 
 March 21, 2022 — Professors Sade Bonilla, Emily Penner, and I presented "Understanding the Opportunities and Challenges of Teaching Ethnic Studies" as part of "[Diálogos Virtuales — A Lecture-Discussion Series on Diversity, Equity, Inclusion & the International Dimensions of Education](https://education.sdsu.edu/about/dei-ia/diversity/dialogos) at San Diego State University.
 
-February 9, 2022 — I spoke with [Time Magazine](https://time.com/6146541/oakland-schools-closing-enrollment/) about enrollment declines and the controversial school closures in Oakland.
+February 9, 2022 — I spoke with [_Time Magazine_](https://time.com/6146541/oakland-schools-closing-enrollment/) about enrollment declines and the controversial school closures in Oakland.
 
 January 19, 2022 — I share my thoughts on what makes researcher-practitioner partnerships (RPPs) effective in an [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-what-it-takes-for-universities-to-conduct-useful-education-research/2022/01).
 
 December 23, 2021 — My school-reopening [study](/files/w29156.pdf) with Stanford doctoral student, [Elizabeth Huffaker](https://cepa.stanford.edu/people/elizabeth-huffaker), and Cheryl Phillips and Eric Sagara of [Big Local News](https://biglocalnews.org) is chosen as [the top education study of 2021](https://fordhaminstitute.org/national/commentary/counting-down-top-education-studies-2021) by the Fordham Institute.
 
-December 17, 2021 — Our work on the Stanford School Enrollment Project with [Big Local News](https://biglocalnews.org), the New York Times, EdSource, the Colorado News Collaborative, and OpenNews is listed among the ["top 10+ journalism collaborations of 2021"](https://medium.com/centerforcooperativemedia/here-are-the-top-10-journalism-collaborations-of-2021-210536efaaf1).
+December 17, 2021 — Our work on the Stanford School Enrollment Project with [Big Local News](https://biglocalnews.org), the _New York Times_, _EdSource_, the _Colorado News Collaborative_, and _OpenNews_ is listed among the ["top 10+ journalism collaborations of 2021"](https://medium.com/centerforcooperativemedia/here-are-the-top-10-journalism-collaborations-of-2021-210536efaaf1).
 
 December 15, 2021 — Our recent research produced 1/8th of the ["16 Charts that Changed the Way We Looked at America's Schools in 2021"](https://www.the74million.org/article/16-charts-that-changed-the-way-we-looked-at-americas-schools-in-2021/).
 
@@ -34,5 +34,5 @@ August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of s
 
 August 19, 2021 — I discussed remote learning and school reopenings at an ["In Conversation with SIEPR Scholars"](https://siepr.stanford.edu/event/conversation-tom-dee-remote-learning-and-school-reopenings-during-pandemic-lessons-and) event.
 
-August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the New York Times discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
+August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the _New York Times_ discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
 
