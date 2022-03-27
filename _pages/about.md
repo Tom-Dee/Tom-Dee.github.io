@@ -10,7 +10,9 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-March 21, 2022 — Professors Sade Bonilla, Emily Penner, and I will discuss "Understanding the Opportunities and Challenges of Teaching Ethnic Studies" as part of "[Diálogos Virtuales — A Lecture-Discussion Series on Diversity, Equity, Inclusion & the International Dimensions of Education](https://education.sdsu.edu/about/dei-ia/diversity/dialogos) at San Diego State University.
+March 26, 2020 — I spoke with the Washington Post about "[Montgomery County schools’ anti-racist audit to examine its curriculums](https://www.washingtonpost.com/education/2022/03/26/montgomery-county-schools-antiracism-audit/) [sic]."
+
+March 21, 2022 — Professors Sade Bonilla, Emily Penner, and I presented "Understanding the Opportunities and Challenges of Teaching Ethnic Studies" as part of "[Diálogos Virtuales — A Lecture-Discussion Series on Diversity, Equity, Inclusion & the International Dimensions of Education](https://education.sdsu.edu/about/dei-ia/diversity/dialogos) at San Diego State University.
 
 February 9, 2022 — I spoke with [Time Magazine](https://time.com/6146541/oakland-schools-closing-enrollment/) about enrollment declines and the controversial school closures in Oakland.
 
