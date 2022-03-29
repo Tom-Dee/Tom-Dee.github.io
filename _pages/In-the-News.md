@@ -1,30 +1,23 @@
 ---
 layout: archive
-permalink: /In-the-News/
+permalink: /Book-Chapters/
 author_profile: true
 ---
 
-March 26, 2020 — "[Montgomery County schools’ anti-racist audit to examine its curriculums](https://www.washingtonpost.com/education/2022/03/26/montgomery-county-schools-antiracism-audit/) [sic]," _Washington Post_.
+Dee, T. S. & Murphy, M. (2021). The impact of local ICE-police partnerships on students. In P. Gándara and J. Ee (Eds.), _[Schools under siege: The impact of immigration enforcement on educational equity](https://www.hepg.org/hep-home/books/schools-under-siege)_. Harvard Education Press.
 
-February 9, 2022 — "[Oakland Is Closing Schools Due to Declining Enrollment. Other Cities Could Be Next,](https://time.com/6146541/oakland-schools-closing-enrollment/) _Time Magazine_.
+Aronson, J. & Dee, T. S. (2011). Stereotype threat in the real world. In Schmader, T. & Inzlicht, M. (Eds.), _[Stereotype threat: Theory, process, and application](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199732449.001.0001/acprof-9780199732449)_ (pp. 264-279). Oxford University Press.
 
-January 19, 2022 — I share my thoughts on what makes researcher-practitioner partnerships (RPPs) effective in an [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-what-it-takes-for-universities-to-conduct-useful-education-research/2022/01).
+Dee, T. S. (2010). Education and civic engagement. In D.J. Brewer and P.J. McEwan (Eds.), _[Economics of education](https://www.elsevier.com/books/economics-of-education/brewer/978-0-08-096530-7)_, and In E. Baker, B. McGaw, and P. Peterson (Eds.), _[International encyclopedia of education, 3rd Edition](https://www.sciencedirect.com/referencework/9780080448947/international-encyclopedia-of-education)_. Elsevier.
 
-December 23, 2021 — My school-reopening [study](/files/w29156.pdf) with Stanford doctoral student, [Elizabeth Huffaker](https://cepa.stanford.edu/people/elizabeth-huffaker), and Cheryl Phillips and Eric Sagara of [Big Local News](https://biglocalnews.org) is chosen as [the top education study of 2021](https://fordhaminstitute.org/national/commentary/counting-down-top-education-studies-2021) by the Fordham Institute.
+Dee, T. S. (2008). Assessing the college contribution to civic engagement. In M.S. McPherson and M.O. Schapiro (Eds.), _[Succeeding in college: What it means and how to make it happen](https://store.collegeboard.org/sto/productdetail.do?Itemkey=008303)_. College Board.
 
-December 17, 2021 — Our work on the Stanford School Enrollment Project with [Big Local News](https://biglocalnews.org), the _New York Times_, _EdSource_, the _Colorado News Collaborative_, and _OpenNews_ is listed among the ["top 10+ journalism collaborations of 2021"](https://medium.com/centerforcooperativemedia/here-are-the-top-10-journalism-collaborations-of-2021-210536efaaf1).
+Dee, T. S. & Jacob, B. A. (2007). Do high school exit exams influence educational attainment or labor market performance? In A. Gamoran (Ed.), _[Standards-Based reform and the poverty gap: Lessons for "No Child Left Behind"](https://www.brookings.edu/book/standards-based-reform-and-the-poverty-gap/)_. Brookings Institution Press.
 
-December 15, 2021 — Our recent research produced 1/8th of the ["16 Charts that Changed the Way We Looked at America's Schools in 2021"](https://www.the74million.org/article/16-charts-that-changed-the-way-we-looked-at-americas-schools-in-2021/).
+Dee, T. S. (2004). Comment on “Peer Effects in Higher Education" by G. Winston and D. Zimmermann. In C. M. Hoxby (Ed.), _[College choices: The economics of where to go, when to go, and how to pay for it](https://press.uchicago.edu/ucp/books/book/chicago/C/bo3643231.html)_ (pp. 421-423). University of Chicago Press.
 
-December 6, 2021 — Our Bay Area NBC affiliate discusses the [Gardner Center](https://gardnercenter.stanford.edu)'s ongoing partnership work on fielding [mental-health first responders](https://www.nbcbayarea.com/news/local/san-mateo-county-launches-mental-health-crisis-response-pilot-in-four-cities/2748749/).
+Dee, T. S. (2003). [The 'First Wave' of accountability](/files/firstwave.pdf). In P. Petersen and M. West (Eds.), _[No Child Left Behind? The politics and practice of accountability](https://www.brookings.edu/book/no-child-left-behind/)_. Brookings Institution Press.
 
-September 6, 2021 — A study by Professors Sade Bonilla, Emily Penner, and me on the [longer-run effects](https://news.stanford.edu/2021/09/06/research-finds-sustained-impact-ethnic-studies-class/) of a high-school ethnic-studies course is out at the [Proceedings of the National Academy of the Sciences (PNAS)](https://www.pnas.org/content/118/37/e2026386118).
+Dee, T. S. (2002). [Where does new money go? Evidence from litigation and a lottery](https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002316). In W. Fowler (Ed.), _Developments in School Finance, 1999-2000_. National Center for Education Statistics, U.S. Department of Education.
 
-August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of school-reopening policies during the COVID-19 pandemic is available on NBER's Youtube channel: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AyEw6GsjI6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-August 19, 2021 — I discussed remote learning and school reopenings at an ["In Conversation with SIEPR Scholars"](https://siepr.stanford.edu/event/conversation-tom-dee-remote-learning-and-school-reopenings-during-pandemic-lessons-and) event.
-
-August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the _New York Times_ discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
-
+Dee, T. S. & Evans, W. N. (2001). [Teens and traffic safety](/files/tts.pdf). In J. Gruber (Ed.), _[An economic analysis of risky behavior among youths](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3646355.html)_, University of Chicago Press.
