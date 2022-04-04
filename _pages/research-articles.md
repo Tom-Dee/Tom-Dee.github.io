@@ -6,6 +6,10 @@ author_profile: true
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2021). [The revealed preferences for school reopening: Evidence from public-school disenrollment (No. w29156)](/files/w29156.pdf). National Bureau of Economic Research.
 
+Baker, R., Dee, T., Evans, B., & John, J. (in press). [Bias in online classes: Evidence from a field experiment](https://cepa.stanford.edu/sites/default/files/wp18-03-201803.pdf). _Economics of Education Review_.
+
+Asim, M. & Dee, T. (in press). [Mobile Phones, Civic Engagement, and School Performance in Pakistan](/files/EER_in_press_SCMP.pdf). _Economics of Education Review_.
+
 Pyne, J., Messner, E. & Dee, T. S. (in press). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy_.
 
 Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). _Proceedings of the National Academy of Sciences, 118_(37).
