@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-April 6, 2020 — I discussed the most recent data on enrollment declines with the 74 Million: "[‘Those Kids Did Not Come Back’: Exclusive Enrollment Data Shows Students Continue to Flee Urban Districts as Boom Town Schools and Virtual Academies Thrive](https://www.the74million.org/article/covid-school-enrollment-students-move-away-from-urban-districts-virtual/)."
+April 6, 2020 — I discussed the most recent data on enrollment declines with the _74 Million_: "[‘Those Kids Did Not Come Back’: Exclusive Enrollment Data Shows Students Continue to Flee Urban Districts as Boom Town Schools and Virtual Academies Thrive](https://www.the74million.org/article/covid-school-enrollment-students-move-away-from-urban-districts-virtual/)."
 
 March 26, 2020 — I spoke with the _Washington Post_ about "[Montgomery County schools’ anti-racist audit to examine its curriculums](https://www.washingtonpost.com/education/2022/03/26/montgomery-county-schools-antiracism-audit/) [sic]."
 
@@ -37,4 +37,3 @@ August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of s
 August 19, 2021 — I discussed remote learning and school reopenings at an ["In Conversation with SIEPR Scholars"](https://siepr.stanford.edu/event/conversation-tom-dee-remote-learning-and-school-reopenings-during-pandemic-lessons-and) event.
 
 August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the _New York Times_ discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
-
