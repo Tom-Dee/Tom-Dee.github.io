@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-April 6, 2020 — I discussed the most recent data on enrollment declines with the _74 Million_: "[‘Those Kids Did Not Come Back’: Exclusive Enrollment Data Shows Students Continue to Flee Urban Districts as Boom Town Schools and Virtual Academies Thrive](https://www.the74million.org/article/covid-school-enrollment-students-move-away-from-urban-districts-virtual/)."
+April 6, 2020 — I discussed the most recent data on enrollment declines with the _74 Million_ : "[‘Those Kids Did Not Come Back’: Exclusive Enrollment Data Shows Students Continue to Flee Urban Districts as Boom Town Schools and Virtual Academies Thrive](https://www.the74million.org/article/covid-school-enrollment-students-move-away-from-urban-districts-virtual/)."
 
 March 26, 2020 — I spoke with the _Washington Post_ about "[Montgomery County schools’ anti-racist audit to examine its curriculums](https://www.washingtonpost.com/education/2022/03/26/montgomery-county-schools-antiracism-audit/) [sic]."
 
