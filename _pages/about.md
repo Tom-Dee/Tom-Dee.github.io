@@ -10,9 +10,11 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-April 6, 2020 — I discussed the most recent data on enrollment declines with the _74 Million_ : "[‘Those Kids Did Not Come Back’: Exclusive Enrollment Data Shows Students Continue to Flee Urban Districts as Boom Town Schools and Virtual Academies Thrive](https://www.the74million.org/article/covid-school-enrollment-students-move-away-from-urban-districts-virtual/)."
+April 14, 2022 - In this _New York Times_ article, I discuss what's sensible—and what's a missed opportunity—in recent state increases in teacher pay: "[In Several States, Teachers Get their Biggest Pay Increases in Decades](https://www.nytimes.com/2022/04/14/us/teacher-salary-pay-raise.html)."
 
-March 26, 2020 — I spoke with the _Washington Post_ about "[Montgomery County schools’ anti-racist audit to examine its curriculums](https://www.washingtonpost.com/education/2022/03/26/montgomery-county-schools-antiracism-audit/) [sic]."
+April 6, 2022 — I discussed the most recent data on enrollment declines with the _74 Million_ : "[‘Those Kids Did Not Come Back’: Exclusive Enrollment Data Shows Students Continue to Flee Urban Districts as Boom Town Schools and Virtual Academies Thrive](https://www.the74million.org/article/covid-school-enrollment-students-move-away-from-urban-districts-virtual/)."
+
+March 26, 2022 — I spoke with the _Washington Post_ about "[Montgomery County schools’ anti-racist audit to examine its curriculums](https://www.washingtonpost.com/education/2022/03/26/montgomery-county-schools-antiracism-audit/) [sic]."
 
 March 21, 2022 — Professors Sade Bonilla, Emily Penner, and I presented "Understanding the Opportunities and Challenges of Teaching Ethnic Studies" as part of "[Diálogos Virtuales — A Lecture-Discussion Series on Diversity, Equity, Inclusion & the International Dimensions of Education](https://education.sdsu.edu/about/dei-ia/diversity/dialogos) at San Diego State University.
 
