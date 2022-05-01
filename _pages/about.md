@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+April 28, 2022 - Professors Sade Bonilla, Emily Penner, and I presented "[Understanding the Opportunities and Challenges of Teaching Ethnic Studies](https://www.thenetworkwi.com/calendar/2022/04/28/ethnic-studies)" as part of the Educational Equity Leadership Series organized by the [Disproportionality Technical Assistance Network](https://www.thenetworkwi.com/about) in Wisconsin.
+
 April 14, 2022 - In this _New York Times_ article, I discuss what's sensible—and what's a missed opportunity—in recent state increases in teacher pay: "[In Several States, Teachers Get their Biggest Pay Increases in Decades](https://www.nytimes.com/2022/04/14/us/teacher-salary-pay-raise.html)."
 
 April 6, 2022 — I discussed the most recent data on enrollment declines with the _74 Million_: "[‘Those Kids Did Not Come Back’: Exclusive Enrollment Data Shows Students Continue to Flee Urban Districts as Boom Town Schools and Virtual Academies Thrive](https://www.the74million.org/article/covid-school-enrollment-students-move-away-from-urban-districts-virtual/)."
