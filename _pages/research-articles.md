@@ -6,9 +6,9 @@ author_profile: true
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2021). [The revealed preferences for school reopening: Evidence from public-school disenrollment (No. w29156)](/files/w29156.pdf). National Bureau of Economic Research.
 
-Baker, R., Dee, T., Evans, B., & John, J. (in press). [Bias in online classes: Evidence from a field experiment](/files/Baker_et_al_EER.pdf). _Economics of Education Review_.
+Baker, R., Dee, T., Evans, B., & John, J. (in press). [Bias in online classes: Evidence from a field experiment](/files/EER_2022_Baker_et_al.pdf). _Economics of Education Review_.
 
-Asim, M. & Dee, T. (in press). [Mobile phones, civic engagement, and school performance in Pakistan](/files/EER_in_press_SCMP.pdf). _Economics of Education Review_.
+Asim, M. & Dee, T. (in press). [Mobile phones, civic engagement, and school performance in Pakistan](/files/EER_2022_Asim_Dee.pdf). _Economics of Education Review_.
 
 Pyne, J., Messner, E. & Dee, T. S. (in press). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy_.
 
