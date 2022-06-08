@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-June 8, 2022 — My co-authored study on a "community response" initiative in Denver (i.e., health-care first-responders—no police—for individuals in mental-health or substance-abuse crises) is out at _Science Advances_(/files/sciadv.abm2106.pdf).
+June 8, 2022 — My co-authored study on a "community response" initiative in Denver (i.e., health-care first-responders—no police—for individuals in mental-health or substance-abuse crises) is out at [_Science Advances_](/files/sciadv.abm2106.pdf).
 
 April 28, 2022 - Professors Sade Bonilla, Emily Penner, and I presented "[Understanding the Opportunities and Challenges of Teaching Ethnic Studies](https://www.thenetworkwi.com/calendar/2022/04/28/ethnic-studies)" as part of the Educational Equity Leadership Series organized by the [Disproportionality Technical Assistance Network](https://www.thenetworkwi.com/about) in Wisconsin.
 
