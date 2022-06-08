@@ -4,6 +4,8 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
+Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sci.adv.abm2106.pdf). _Science Advances, 8(23)_. 
+
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2021). [The revealed preferences for school reopening: Evidence from public-school disenrollment (No. w29156)](/files/w29156.pdf). National Bureau of Economic Research.
 
 Baker, R., Dee, T., Evans, B., & John, J. (in press). [Bias in online classes: Evidence from a field experiment](/files/EER_2022_Baker_et_al.pdf). _Economics of Education Review_.
