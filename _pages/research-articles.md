@@ -8,6 +8,8 @@ Dee, T. & J. Pyne (2022). [A community response approach to mental health and su
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2021). [The revealed preferences for school reopening: Evidence from public-school disenrollment (No. w29156)](/files/w29156.pdf). National Bureau of Economic Research.
 
+Dee, T., Loeb, S., & Shi, Y. (in press). Public-Sector Leadership and Philanthropy: The Case of Broad Superintendents. _Educational Evaluation and Policy Analysis_.
+
 Baker, R., Dee, T., Evans, B., & John, J. (in press). [Bias in online classes: Evidence from a field experiment](/files/EER_2022_Baker_et_al.pdf). _Economics of Education Review_.
 
 Asim, M. & Dee, T. (in press). [Mobile phones, civic engagement, and school performance in Pakistan](/files/EER_2022_Asim_Dee.pdf). _Economics of Education Review_.
