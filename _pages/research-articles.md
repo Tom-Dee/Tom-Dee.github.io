@@ -4,7 +4,8 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_. <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script> <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="129443620"></div>
+Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_.
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="129443620"></div>
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2021). [The revealed preferences for school reopening: Evidence from public-school disenrollment (No. w29156)](/files/w29156.pdf). National Bureau of Economic Research.
 
@@ -16,7 +17,8 @@ Asim, M. & Dee, T. (in press). [Mobile phones, civic engagement, and school perf
 
 Pyne, J., Messner, E. & Dee, T. S. (in press). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy_.
 
-Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). _Proceedings of the National Academy of Sciences, 118_(37). <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="113044557"></div>
+Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). _Proceedings of the National Academy of Sciences, 118_(37). 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="113044557"></div>
 
 Dee, T.S. & Penner, E. (2021). [My brother’s keeper? The impact of targeted educational supports](/files/jpam 2021.pdf). _Journal of Policy Analysis and Management 40_(4), 1171-1196. 
 
