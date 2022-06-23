@@ -4,8 +4,7 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_. 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.abm2106" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_. <div data-badge-popover="right" data-badge-type="2" data-doi="10.1126/sciadv.abm2106" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
