@@ -4,7 +4,7 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_. <div class='altmetric-embed' data-doi='10.1126/sciadv.abm2106'></div>
+Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_.
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2021). [The revealed preferences for school reopening: Evidence from public-school disenrollment (No. w29156)](/files/w29156.pdf). National Bureau of Economic Research.
 
