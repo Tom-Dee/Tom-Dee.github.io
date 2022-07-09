@@ -4,6 +4,8 @@ permalink: /Public-Writing/
 author_profile: true
 ---
 
+Dee, T. S. & Pyne, J. (July 9, 2022). [How to Get Cops Out of the Mental-Health Business](https://www.wsj.com/articles/how-to-get-cops-out-of-the-mental-health-business-community-response-initiative-police-nonviolent-denver-social-workers-11657297784). _Wall Street Journal_.
+
 Dee, T. S. (January 19, 2022). [Embrace the risk, increase the support](https://www.edweek.org/leadership/opinion-what-it-takes-for-universities-to-conduct-useful-education-research/2022/01). _Education Week 41_(19), 18.
 
 Dee, T. S. (November 29, 2020). [VCs are pouring money into the wrong education startups](https://www.wired.com/story/vcs-are-pouring-money-into-the-wrong-education-startups/). _Wired_.
