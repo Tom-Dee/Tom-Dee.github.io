@@ -143,3 +143,5 @@ Dee, T. S. (1998). [Competition and the quality of public schools](/files/eer98.
 
 Dee, T. S. (1998). [Reconsidering the effects of seat belt laws and their enforcement status](/files/aa&p98.pdf). _Accident Analysis & Prevention, 30_(1), 1-10.
 
+Dee, T. S. (1998). [Tiebout Goes to College: Evidence from the HOPE Scholarship Program](/files/hope0498.PDF). Unpublished manuscript.
+
