@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+October 27, 2022 — Our [study](/files/w29156.pdf) of how school-reopening policies contributed to enrollment loss during the COVID-19 pandemic is now forthcoming at the _American Educational Research Journal_.
+
 October 11, 2022 — I joined the [Probable Causation](https://www.probablecausation.com/podcasts/episode-80-thomas-dee) podcast to discuss [my research](/files/sciadv.abm2106.pdf) with [Jaymes Pyne](https://www.jaymespyne.com/) on first-responder innovations for people in behavioral-health crises.
 
 August 26, 2022 — I spoke with members of the [Society for Developmental and Behavioral Pediatrics](https://sdbp.org/) about our [research on Ethnic Studies in San Francisco Unified School District](https://news.stanford.edu/2021/09/06/research-finds-sustained-impact-ethnic-studies-class/) and the [African American Male Acheivement program in the Oakland Unified School District](https://ed.stanford.edu/news/access-black-male-achievement-program-lowered-student-dropout-rates-stanford-led-study-finds).
