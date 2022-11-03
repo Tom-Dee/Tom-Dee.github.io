@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+November 3, 2022 — In a new [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-public-school-enrollment-is-down-by-more-than-a-million-why/2022/11), I discuss how the latest enrollment & population data point to an enduring geographic realignment of US schoolchildren that will create challenges for COVID-19 academic recovery in many districts.
+
 October 27, 2022 — Our [study](/files/w29156.pdf) of how school-reopening policies contributed to enrollment loss during the COVID-19 pandemic is now forthcoming at the _American Educational Research Journal_.
 
 October 11, 2022 — I joined the [Probable Causation](https://www.probablecausation.com/podcasts/episode-80-thomas-dee) podcast to discuss [my research](/files/sciadv.abm2106.pdf) with [Jaymes Pyne](https://www.jaymespyne.com/) on first-responder innovations for people in behavioral-health crises.
