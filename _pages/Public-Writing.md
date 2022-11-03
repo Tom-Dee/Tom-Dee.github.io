@@ -4,6 +4,8 @@ permalink: /Public-Writing/
 author_profile: true
 ---
 
+Dee, T. S. (November 3, 2022). [Public School Enrollment Is Down by More Than a Million. Why?](https://www.edweek.org/leadership/opinion-public-school-enrollment-is-down-by-more-than-a-million-why/2022/11). _Education Week_.
+
 Dee, T. S. & Pyne, J. (July 9, 2022). [How to Get Cops Out of the Mental-Health Business](https://www.wsj.com/articles/how-to-get-cops-out-of-the-mental-health-business-community-response-initiative-police-nonviolent-denver-social-workers-11657297784). _Wall Street Journal_.
 
 Dee, T. S. (January 19, 2022). [Embrace the risk, increase the support](https://www.edweek.org/leadership/opinion-what-it-takes-for-universities-to-conduct-useful-education-research/2022/01). _Education Week 41_(19), 18.
