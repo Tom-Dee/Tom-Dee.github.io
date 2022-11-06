@@ -104,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "thomas-dee-62351114"
-  mastodon         : <a rel="me" href="https://econtwitter.net/@tdee">Mastodon</a>
   orcid            : "https://orcid.org/0000-0001-7524-768X"
   pinterest        :
   soundcloud       :
@@ -117,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  mastodon         : tdee@econtwitter.net
 
 # Reading Files
 include:
