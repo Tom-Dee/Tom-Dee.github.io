@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+November 5, 2022 — You can now find me at <a rel="me" href="https://econtwitter.net/@tdee">Mastodon</a> too.
+
 November 3, 2022 — In a new [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-public-school-enrollment-is-down-by-more-than-a-million-why/2022/11), I discuss how the latest enrollment & population data point to an enduring geographic realignment of US schoolchildren that will create challenges for COVID-19 academic recovery in many districts.
 
 October 27, 2022 — Our [study](/files/w29156.pdf) of how school-reopening policies contributed to enrollment loss during the COVID-19 pandemic is now forthcoming at the _American Educational Research Journal_.
@@ -55,6 +57,4 @@ August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of s
 August 19, 2021 — I discussed remote learning and school reopenings at an ["In Conversation with SIEPR Scholars"](https://siepr.stanford.edu/event/conversation-tom-dee-remote-learning-and-school-reopenings-during-pandemic-lessons-and) event.
 
 August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the _New York Times_ discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
-
-November 5, 2022 — You can now find me at <a rel="me" href="https://econtwitter.net/@tdee">Mastodon</a> too.
 
