@@ -10,9 +10,9 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-November 5, 2022 — You can now find me at <a rel="me" href="https://econtwitter.net/@tdee">Mastodon</a> too.
-
 November 3, 2022 — In a new [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-public-school-enrollment-is-down-by-more-than-a-million-why/2022/11), I discuss how the latest enrollment & population data point to an enduring geographic realignment of US schoolchildren that will create challenges for COVID-19 academic recovery in many districts.
+
+November 2, 2022 — You can now find me on <a rel="me" href="https://econtwitter.net/@tdee">Mastodon</a> too.
 
 October 27, 2022 — Our [study](/files/w29156.pdf) of how school-reopening policies contributed to enrollment loss during the COVID-19 pandemic is now forthcoming at the _American Educational Research Journal_.
 
