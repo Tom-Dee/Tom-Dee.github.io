@@ -10,7 +10,7 @@ Dee, T., Loeb, S., & Shi, Y. (in press). [Public-Sector Leadership and Philanthr
 
 Pyne, J., Messner, E. & Dee, T. S. (in press). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy_.
 
-Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_.
+Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_. Download data [here](/files/DenverSTAR_DD_DDD.zip).
 
 Asim, M. & Dee, T. (2022). [Mobile phones, civic engagement, and school performance in Pakistan](/files/EER_2022_Asim_Dee.pdf). _Economics of Education Review 89_, 102254.
 
