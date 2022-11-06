@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanford.edu) and a Senior Fellow at the [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/). I'm also a Research Associate with the Programs on Education, Children, and Health at the [National Bureau of Economic Research (NBER)](https://www.nber.org) and the Faculty Director of the [John W. Gardner Center for Youth and Their Communities](https://gardnercenter.stanford.edu). I currently serve on the editorial boards of the [American Educational Research Journal](https://journals.sagepub.com/home/aer), [the Journal of Policy Analysis and Management](https://onlinelibrary.wiley.com/journal/15206688), and [Education Finance and Policy](https://direct.mit.edu/edfp) and as an Associate Editor at [Economic Inquiry](https://weai.org/journals/view/EI). My cv is available [here](/files/cv_dee_202202.pdf).
+Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanford.edu) and a Senior Fellow at the [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/). I'm also a Research Associate with the Programs on Education, Children, and Health at the [National Bureau of Economic Research (NBER)](https://www.nber.org) and the Faculty Director of the [John W. Gardner Center for Youth and Their Communities](https://gardnercenter.stanford.edu). I currently serve on the editorial boards of the [American Educational Research Journal](https://journals.sagepub.com/home/aer), [the Journal of Policy Analysis and Management](https://onlinelibrary.wiley.com/journal/15206688), and [Education Finance and Policy](https://direct.mit.edu/edfp) and as an Associate Editor at [Economic Inquiry](https://weai.org/journals/view/EI). My cv is available [here](/files/cv_dee_202202.pdf). 
 
 ### Recent News
 
@@ -55,3 +55,6 @@ August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of s
 August 19, 2021 — I discussed remote learning and school reopenings at an ["In Conversation with SIEPR Scholars"](https://siepr.stanford.edu/event/conversation-tom-dee-remote-learning-and-school-reopenings-during-pandemic-lessons-and) event.
 
 August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the _New York Times_ discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
+
+November 5, 2022 — You can now find me at <a rel="me" href="https://econtwitter.net/@tdee">Mastodon</a> too.
+
