@@ -55,5 +55,3 @@ August 23, 2021 — My short presentation of our [study](/files/w29156.pdf) of s
 August 19, 2021 — I discussed remote learning and school reopenings at an ["In Conversation with SIEPR Scholars"](https://siepr.stanford.edu/event/conversation-tom-dee-remote-learning-and-school-reopenings-during-pandemic-lessons-and) event.
 
 August 7, 2021 — In ["The Pandemic Exodus: Kindergarten Enrollment Drops"](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html), the _New York Times_ discusses the insights from the Stanford School Enrollment Project and [our study](/files/w29156.pdf) on the impact of school-reopening policies.
-
-<a rel="me" href="https://econtwitter.net/@tdee">Mastodon</a>
