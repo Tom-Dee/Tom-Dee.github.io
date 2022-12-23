@@ -6,7 +6,7 @@ author_profile: true
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (in press). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal_. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029).
 
-Dee, T., Loeb, S., & Shi, Y. (in press). [Public-Sector Leadership and Philanthropy: The Case of Broad Superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis_.
+Dee, T., Loeb, S., & Shi, Y. (in press). [Public-sector leadership and philanthropy: The case of Broad superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis_.
 
 Pyne, J., Messner, E. & Dee, T. S. (in press). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy_.
 
