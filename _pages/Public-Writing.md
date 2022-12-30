@@ -4,19 +4,19 @@ permalink: /Public-Writing/
 author_profile: true
 ---
 
-Dee, T. S. (November 3, 2022). [Public School Enrollment Is Down by More Than a Million. Why?](https://www.edweek.org/leadership/opinion-public-school-enrollment-is-down-by-more-than-a-million-why/2022/11). _Education Week_.
+Dee, T. S. (November 2, 2022). [Public School Enrollment Is Down by More Than a Million. Why?](/files/EdWeekCommentary_Dee_20221102.pdf). _Education Week_.
 
-Dee, T. S. & Pyne, J. (July 9, 2022). [How to Get Cops Out of the Mental-Health Business](https://www.wsj.com/articles/how-to-get-cops-out-of-the-mental-health-business-community-response-initiative-police-nonviolent-denver-social-workers-11657297784). _Wall Street Journal_.
+Dee, T. S. & Pyne, J. (July 8, 2022). [How to Get Cops Out of the Mental-Health Business](/files/WSJ_Dee_Pyne_20220708.pdf). _Wall Street Journal_.
 
-Dee, T. S. (January 19, 2022). [What It Takes for Universities to Conduct Useful Education Research](https://www.edweek.org/leadership/opinion-what-it-takes-for-universities-to-conduct-useful-education-research/2022/01). _Education Week_.
+Dee, T. S. (January 18, 2022). [What It Takes for Universities to Conduct Useful Education Research](/files/EdWeekCommentary_Dee_20220118.pdf1). _Education Week_.
 
 Dee, T. S. (November 29, 2020). [VCs are pouring money into the wrong education startups](https://www.wired.com/story/vcs-are-pouring-money-into-the-wrong-education-startups/). _Wired_.
 
 Dee, T. S. (2020). [Learning from the past: School accountability before ESSA](https://www.hoover.org/research/learning-past-school-accountability-essa). Hoover Education Success Initiative.
 
-Dee, T. S. (August 28, 2019). [What early-childhood accountability can learn from K-12’s mistakes](https://www.edweek.org/teaching-learning/opinion-what-early-childhood-accountability-can-learn-from-k-12s-mistakes/2019/08). _Education Week 39_(2), 24.
+Dee, T. S. (August 26, 2019). [What early-childhood accountability can learn from K-12’s mistakes](/files/EdWeekCommentary_Dee_20190826.pdf). _Education Week 39_(2), 24.
 
-Dee, T. S. (November 1, 2018). [When police team up with ICE, it ripples into classrooms](https://www.latimes.com/opinion/op-ed/la-oe-dee-ice-287g-schools-20181101-story.html). _Los Angeles Times_.
+Dee, T. S. (November 1, 2018). [When police team up with ICE, it ripples into classrooms](/files/LAT_Dee_20181101.pdf). _Los Angeles Times_.
 
 Baker, R., Dee, T. S., Evans, B. & John, J. (April 17, 2018). [Race and gender biases appear in online classrooms](https://www.brookings.edu/blog/brown-center-chalkboard/2018/04/27/race-and-gender-biases-appear-in-online-education/). Brown Center Chalkboard, Brookings Institution.
 
