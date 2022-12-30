@@ -8,7 +8,7 @@ Dee, T. S. (November 2, 2022). [Public School Enrollment Is Down by More Than a 
 
 Dee, T. S. & Pyne, J. (July 8, 2022). [How to Get Cops Out of the Mental-Health Business](/files/WSJ_Dee_Pyne_20220708.pdf). _Wall Street Journal_.
 
-Dee, T. S. (January 18, 2022). [What It Takes for Universities to Conduct Useful Education Research](/files/EdWeekCommentary_Dee_20220118.pdf1). _Education Week_.
+Dee, T. S. (January 18, 2022). [What It Takes for Universities to Conduct Useful Education Research](/files/EdWeekCommentary_Dee_20220118.pdf). _Education Week_.
 
 Dee, T. S. (November 29, 2020). [VCs are pouring money into the wrong education startups](https://www.wired.com/story/vcs-are-pouring-money-into-the-wrong-education-startups/). _Wired_.
 
