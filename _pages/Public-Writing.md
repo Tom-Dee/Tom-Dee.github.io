@@ -38,6 +38,6 @@ Dee, T. S. & Keys, B. (2005). [Dollars and sense](https://www.educationnext.org/
 
 Dee, T. S. (2004). [The race connection](https://www.educationnext.org/the-race-connection/). _Education Next 4_(2), 53-59.
 
-Dee, T. S. (June 21, 2004). [Unanswered questions](/files/Baltimore Sun Op-Ed 06.21.2004.pdf). _Baltimore Sun_, 11A. 
+Dee, T. S. (June 21, 2004). [Unanswered questions](/files/BaltimoreSunOpEd20040621.pdf). _Baltimore Sun_, 11A. 
 
 Dee, T. S. (2003). [Learning to earn](https://www.educationnext.org/learningtoearn/). _Education Next 3_(3), 65-70.
