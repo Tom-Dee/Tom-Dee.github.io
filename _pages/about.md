@@ -10,6 +10,10 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+February 9, 2023 — In [The Conversation](https://theconversation.com/public-school-enrollment-dropped-by-1-2m-during-the-pandemic-an-expert-discusses-where-the-students-went-and-why-it-matters-198768), I argue our pandemic academic recovery is biased by a "streetlight effect" and needs a new focus on young learners and those who've left public schools.
+
+February 9, 2023 — My data [collaboration](https://apnews.com/article/covid-school-enrollment-missing-kids-homeschool-b6c9017f603c00466b9e9908c5f2183a) with the Associated Press and Big Local News provides new evidence on where the kids of the public-school exodus went. Details out at the [Learning Curve](https://www.urban.org/research/publication/where-kids-went-nonpublic-schooling-and-demographic-change-during-pandemic).
+
 November 3, 2022 — In a new [_Education Week_ commentary](https://www.edweek.org/leadership/opinion-public-school-enrollment-is-down-by-more-than-a-million-why/2022/11), I discuss how the latest enrollment & population data point to an enduring geographic realignment of US schoolchildren that will create challenges for COVID-19 academic recovery in many districts.
 
 November 2, 2022 — You can now find me on <a rel="me" href="https://econtwitter.net/@tdee">Mastodon</a> too.
