@@ -4,6 +4,8 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
+Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](https://www.urban.org/research/publication/where-kids-went-nonpublic-schooling-and-demographic-change-during-pandemic), The Learning Curve, Urban Institute. 
+
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (in press). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal_. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029).
 
 Dee, T., Loeb, S., & Shi, Y. (in press). [Public-sector leadership and philanthropy: The case of Broad superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis_.
