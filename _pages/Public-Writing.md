@@ -4,6 +4,8 @@ permalink: /Public-Writing/
 author_profile: true
 ---
 
+Dee, T. S. (February 9, 2023). [Public school enrollment dropped by 1.2M during the pandemic – an expert discusses where the students went and why it matters](https://theconversation.com/public-school-enrollment-dropped-by-1-2m-during-the-pandemic-an-expert-discusses-where-the-students-went-and-why-it-matters-198768). _The Conversation_.
+
 Dee, T. S. (November 2, 2022). [Public School Enrollment Is Down by More Than a Million. Why?](/files/EdWeekCommentary_Dee_20221102.pdf). _Education Week_.
 
 Dee, T. S. & Pyne, J. (July 8, 2022). [How to Get Cops Out of the Mental-Health Business](/files/WSJ_Dee_Pyne_20220708.pdf). _Wall Street Journal_.
