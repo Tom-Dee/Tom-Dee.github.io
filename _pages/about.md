@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+March 20, 2023 — Our [new study](/files/ai23-734.pdf) of San Francisco's controversial math "pathways" reform is now out. See Education Week's ["San Francisco Insisted on Algebra in 9th Grade. Did It Improve Equity?"](https://www.edweek.org/teaching-learning/san-francisco-insisted-on-algebra-in-9th-grade-did-it-improve-equity/2023/03) for coverage of this research.
+
 February 9, 2023 — In [The Conversation](https://theconversation.com/public-school-enrollment-dropped-by-1-2m-during-the-pandemic-an-expert-discusses-where-the-students-went-and-why-it-matters-198768), I argue our pandemic academic recovery is biased by a "streetlight effect" and needs a new focus on young learners and those who've left public schools.
 
 February 9, 2023 — My data [collaboration](https://apnews.com/article/covid-school-enrollment-missing-kids-homeschool-b6c9017f603c00466b9e9908c5f2183a) with the Associated Press and Big Local News provides new evidence on where the kids of the public-school exodus went. Details out at the [Learning Curve](https://www.urban.org/research/publication/where-kids-went-nonpublic-schooling-and-demographic-change-during-pandemic).
