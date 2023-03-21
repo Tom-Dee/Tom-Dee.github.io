@@ -4,7 +4,7 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/yk56-yy47
+Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
 
 Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](https://www.urban.org/research/publication/where-kids-went-nonpublic-schooling-and-demographic-change-during-pandemic), The Learning Curve, Urban Institute. 
 
