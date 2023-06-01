@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+May 8, 2023 — I [discussed the pandemic exodus from public schools and the "missing" students](https://nationalpress.org/topic/schools-children-learning-after-covid-thomas-dee/) with the Future of the American Child fellows of the National Press Foundation.
+
 April 7, 2023 — I joined the [Harvard EdCast](https://www.gse.harvard.edu/news/23/04/harvard-edcast-where-have-all-students-gone) to discuss "where have all the students gone."
 
 March 20, 2023 — Our [new study](/files/ai23-734.pdf) of San Francisco's controversial math "pathways" reform is now out. See Education Week's ["San Francisco Insisted on Algebra in 9th Grade. Did It Improve Equity?"](https://www.edweek.org/teaching-learning/san-francisco-insisted-on-algebra-in-9th-grade-did-it-improve-equity/2023/03) for coverage of this research.
