@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+June 4, 2023 — My partners at the Associated Press and I discussed “America’s Missing Students: Who Are They, and How Can You Find Them?” at the [76th National Seminar of the Education Writers Association](https://ewa.org/events/upcoming-events/2023-ewa-national-seminar-atlanta-georgia).
+
 May 8, 2023 — I [discussed the pandemic exodus from public schools and the "missing" students](https://nationalpress.org/topic/schools-children-learning-after-covid-thomas-dee/) with the Future of the American Child fellows of the National Press Foundation.
 
 April 7, 2023 — I joined the [Harvard EdCast](https://www.gse.harvard.edu/news/23/04/harvard-edcast-where-have-all-students-gone) to discuss "where have all the students gone."
