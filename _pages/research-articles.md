@@ -6,13 +6,13 @@ author_profile: true
 
 Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
 
-Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](https://www.urban.org/research/publication/where-kids-went-nonpublic-schooling-and-demographic-change-during-pandemic), The Learning Curve, Urban Institute. 
+Dee, T. (in press). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](https://www.urban.org/research/publication/where-kids-went-nonpublic-schooling-and-demographic-change-during-pandemic), _Teachers College Record_.
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (in press). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal_. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029).
 
-Dee, T., Loeb, S., & Shi, Y. (in press). [Public-sector leadership and philanthropy: The case of Broad superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis_.
+Dee, T., Loeb, S., & Shi, Y. (2023). [Public-sector leadership and philanthropy: The case of Broad superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis 45(2)_, 220–246. [https://doi.org/10.3102/01623737221113575](https://doi.org/10.3102/01623737221113575)
 
-Pyne, J., Messner, E. & Dee, T. S. (in press). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy_.
+Pyne, J., Messner, E. & Dee, T. S. (2023). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy 18 (1)_, 127–155. [https://doi.org/10.1162/edfp_a_00368](https://doi.org/10.1162/edfp_a_00368)
 
 Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_. Download data [here](/files/DenverSTAR.zip).
 
