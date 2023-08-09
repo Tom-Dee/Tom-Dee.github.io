@@ -6,9 +6,9 @@ author_profile: true
 
 Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
 
-Dee, T. (in press). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](/files/TCR_Dee.pdf), _Teachers College Record_, [https://doi.org/10.1177/01614681231190201](https://doi.org/10.1177/01614681231190201).
-
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (in press). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal_. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029).
+
+Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](/files/TCR_Dee.pdf), _Teachers College Record 125(6)_, 119-129 [https://doi.org/10.1177/01614681231190201](https://doi.org/10.1177/01614681231190201).
 
 Dee, T., Loeb, S., & Shi, Y. (2023). [Public-sector leadership and philanthropy: The case of Broad superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis 45(2)_, 220–246. [https://doi.org/10.3102/01623737221113575](https://doi.org/10.3102/01623737221113575)
 
