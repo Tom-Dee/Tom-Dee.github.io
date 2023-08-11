@@ -4,23 +4,25 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
+Dee, T. (2023, August 10). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://osf.io/bfg3p/). https://doi.org/10.31219/osf.io/bfg3p
+
 Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
 
-Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (in press). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal_. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029).
+Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (in press). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal_. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029)
 
-Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](/files/TCR_Dee.pdf), _Teachers College Record 125(6)_, 119-129 [https://doi.org/10.1177/01614681231190201](https://doi.org/10.1177/01614681231190201).
+Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](/files/TCR_Dee.pdf), _Teachers College Record 125(6)_, 119-129 [https://doi.org/10.1177/01614681231190201](https://doi.org/10.1177/01614681231190201)
 
 Dee, T., Loeb, S., & Shi, Y. (2023). [Public-sector leadership and philanthropy: The case of Broad superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis 45(2)_, 220–246. [https://doi.org/10.3102/01623737221113575](https://doi.org/10.3102/01623737221113575)
 
 Pyne, J., Messner, E. & Dee, T. S. (2023). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy 18 (1)_, 127–155. [https://doi.org/10.1162/edfp_a_00368](https://doi.org/10.1162/edfp_a_00368)
 
-Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_. Download data [here](/files/DenverSTAR.zip).
+Dee, T. & J. Pyne (2022). [A community response approach to mental health and substance abuse crises reduced crime](/files/sciadv.abm2106.pdf). _Science Advances, 8(23)_. Download data [here](/files/DenverSTAR.zip)
 
-Asim, M. & Dee, T. (2022). [Mobile phones, civic engagement, and school performance in Pakistan](/files/EER_2022_Asim_Dee.pdf). _Economics of Education Review 89_, 102254.
+Asim, M. & Dee, T. (2022). [Mobile phones, civic engagement, and school performance in Pakistan](/files/EER_2022_Asim_Dee.pdf). _Economics of Education Review 89_, 102254
 
-Baker, R., Dee, T., Evans, B., & John, J. (2022). [Bias in online classes: Evidence from a field experiment](/files/EER_2022_Baker_et_al.pdf). _Economics of Education Review 88_, 102259.
+Baker, R., Dee, T., Evans, B., & John, J. (2022). [Bias in online classes: Evidence from a field experiment](/files/EER_2022_Baker_et_al.pdf). _Economics of Education Review 88_, 102259
 
-Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). _Proceedings of the National Academy of Sciences, 118_(37).
+Bonilla, S., Dee, T. S., & Penner, E. K. (2021). [Ethnic studies increases longer-run academic engagement and attainment](/files/Bonilla-Dee-Penner-PNAS-2021.pdf). _Proceedings of the National Academy of Sciences, 118_(37)
 
 Dee, T.S. & Penner, E. (2021). [My brother’s keeper? The impact of targeted educational supports](/files/jpam 2021.pdf). _Journal of Policy Analysis and Management 40_(4), 1171-1196. 
 
