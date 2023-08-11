@@ -4,7 +4,7 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. (2023, August 10). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://osf.io/bfg3p/). https://doi.org/10.31219/osf.io/bfg3p
+Dee, T. (2023, August 10). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://osf.io/bfg3p/). [https://doi.org/10.31219/osf.io/bfg3p](https://doi.org/10.31219/osf.io/bfg3p)
 
 Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
 
