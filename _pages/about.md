@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-August 10, 2023 — [My latest study](https://osf.io/bfg3p/), which presents and examines comprehensive new data on the sharp rise in chronic absenteeism during the return to in-person schooling ,is now out along with reporting by my collaborators at the [Associated Press](https://projects.apnews.com/features/2023/missing-students-chronic-absenteeism/index.html) and [EdSource](https://edsource.org/2023/the-post-pandemic-jump-in-students-missing-school/695368).
+August 10, 2023 — [My latest study](https://osf.io/bfg3p/), which presents and examines comprehensive new data on the sharp rise in chronic absenteeism during the return to in-person schooling, is now out along with reporting by my collaborators at the [Associated Press](https://projects.apnews.com/features/2023/missing-students-chronic-absenteeism/index.html) and [EdSource](https://edsource.org/2023/the-post-pandemic-jump-in-students-missing-school/695368).
 
 August 9, 2023 — "[Where the Kids Went: Nonpublic Schooling and Demographic Change During the Pandemic Exodus from Public Schools](/files/TCR_Dee.pdf)," is now published in _Teachers College Record_.
 
