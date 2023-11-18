@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+November 18, 2023 — The _New York Times_ Editorial Board ("[The Startling Evidence on Learning Loss is In](https://www.nytimes.com/2023/11/18/opinion/pandemic-school-learning-loss.html?unlocked_article_code=1._Uw.Wt2s.7xf2pDkOzM3n&smid=url-share)") discusses the persistent challenges of academic recovery from the pandemic and notes the relevant insights from [my recent collaboration](https://osf.io/bfg3p/) with the [Associated Press](https://projects.apnews.com/features/2023/missing-students-chronic-absenteeism/index.html).
+
 September 13, 2023 — I recently spoke with the White House Council of Economic Advisors ("[Chronic Absenteeism and Disrupted Learning Require an All-Hands-on-Deck Approach](https://www.whitehouse.gov/cea/written-materials/2023/09/13/chronic-absenteeism-and-disrupted-learning-require-an-all-hands-on-deck-approach/)") and the _New York Times_ ("[Where Are the Students?](https://www.nytimes.com/2023/09/05/briefing/covid-school-absence.html)") about our work on the rise in chronic absenteeism.
 
 August 10, 2023 — [My latest study](https://osf.io/bfg3p/), which presents and examines comprehensive new data on the sharp rise in chronic absenteeism during the return to in-person schooling, is now out along with reporting by my collaborators at the [Associated Press](https://projects.apnews.com/features/2023/missing-students-chronic-absenteeism/index.html) and [EdSource](https://edsource.org/2023/the-post-pandemic-jump-in-students-missing-school/695368).
