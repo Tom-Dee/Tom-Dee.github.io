@@ -10,8 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-January 9, 2024 — My article "Higher chronic absenteeism threatens academic recovery from the COVID-19 pandemic" is now out at the [_Proceedings of the National Academy of Sciences_](https://www.pnas.org/doi/10.1073/pnas.2312249121).
-
+January 9, 2024 — My article "Higher chronic absenteeism threatens academic recovery from the COVID-19 pandemic" is now out at the [_Proceedings of the National Academy of Sciences_](https://www.pnas.org/doi/10.1073/pnas.2312249121). See related coverage in the [_New Yorker_](https://www.newyorker.com/magazine/2024/01/15/has-school-become-optional) and [_Vox_](https://www.vox.com/2024/1/9/23904542/chronic-absenteeism-school-attendance).
 
 December 4, 2023 — Our [new study](https://doi.org/10.26300/jnmt-2093) finds CA's lawsuit-driven effort to bring the "Science of Reading" to its lowest-performing elementary schools is working. See the news coverage in [_The New York Times_](https://www.nytimes.com/2023/12/04/us/schools-reading-program-california.html?unlocked_article_code=1.DU0.Fu3B.RhJomtw9cjSj&hpgrp=k-abar&smid=url-share), [_Education Week_](https://www.edweek.org/teaching-learning/science-of-reading-reforms-show-student-gains-in-california-study-finds/2023/12), [_Hechinger Report_](https://hechingerreport.org/proof-points-right-to-read-settlement-spurred-higher-reading-scores-in-californias-lowest-performing-schools-study-finds/), [_Los Angeles Times_](https://www.latimes.com/california/story/2023-12-04/stanford-study-wades-into-reading-wars-with-strong-evidence-that-phonics-works), [_Cal Matters_](https://calmatters.org/education/k-12-education/2023/12/student-reading/). 
 
