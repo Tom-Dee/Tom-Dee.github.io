@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-March 4, 2024 — "Is the Hardest Job in Education Convincing Parents to Send Their Kids to a San Francisco Public School?" I spoke with Gail Cornwall for [this article](https://www.thenation.com/article/society/san-francisco-public-school-enrollment/) in The Nation.
+March 4, 2024 — "Is the Hardest Job in Education Convincing Parents to Send Their Kids to a San Francisco Public School?" I spoke with Gail Cornwall for [this article](https://www.thenation.com/article/society/san-francisco-public-school-enrollment/) in _The Nation_.
 
 January 9, 2024 — My article "Higher chronic absenteeism threatens academic recovery from the COVID-19 pandemic" is now out at the [_Proceedings of the National Academy of Sciences_](https://www.pnas.org/doi/10.1073/pnas.2312249121). See related coverage in the [_New Yorker_](https://www.newyorker.com/magazine/2024/01/15/has-school-become-optional) and [_Vox_](https://www.vox.com/2024/1/9/23904542/chronic-absenteeism-school-attendance).
 
