@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+March 28, 2024 — "Screens Are Everywhere in Schools. Do They Actually Help Kids Learn?" I spoke with Jessica Grose for this [NYT op-ed](https://www.nytimes.com/2024/03/27/opinion/schools-technology.html?ugrp=u&unlocked_article_code=1.gE0.DzKm.D_AUvFxdymKk&smid=url-share) that seeks to separate the hyperbole and reality of how education technology is changing our children's learning environments.
+
 March 4, 2024 — "Is the Hardest Job in Education Convincing Parents to Send Their Kids to a San Francisco Public School?" I spoke with Gail Cornwall for [this article](https://www.thenation.com/article/society/san-francisco-public-school-enrollment/) in _The Nation_.
 
 January 9, 2024 — My article "Higher chronic absenteeism threatens academic recovery from the COVID-19 pandemic" is now out at the [_Proceedings of the National Academy of Sciences_](https://www.pnas.org/doi/10.1073/pnas.2312249121). See related coverage in the [_New Yorker_](https://www.newyorker.com/magazine/2024/01/15/has-school-become-optional) and [_Vox_](https://www.vox.com/2024/1/9/23904542/chronic-absenteeism-school-attendance).
