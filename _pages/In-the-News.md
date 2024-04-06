@@ -4,6 +4,8 @@ permalink: /Book-Chapters/
 author_profile: true
 ---
 
+Dee, T. S. (2023). [School staffing and teacher quality](https://www.hoover.org/research/school-staffing-and-teacher-quality-nation-risk-40).  In S.L. Bowen and M.E. Raymond (Eds.), _[A Nation at Risk +40: A Review of Progress in US Public Education](https://www.hoover.org/nation-risk-40-review-progress-us-public-education)_. Hoover Institution.
+
 Dee, T. S. & Murphy, M. (2021). The impact of local ICE-police partnerships on students. In P. Gándara and J. Ee (Eds.), _[Schools under siege: The impact of immigration enforcement on educational equity](https://www.hepg.org/hep-home/books/schools-under-siege)_. Harvard Education Press.
 
 Aronson, J. & Dee, T. S. (2011). Stereotype threat in the real world. In Schmader, T. & Inzlicht, M. (Eds.), _[Stereotype threat: Theory, process, and application](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199732449.001.0001/acprof-9780199732449)_ (pp. 264-279). Oxford University Press.
