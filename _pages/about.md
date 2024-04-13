@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+April 12, 2024 — I received the Outstanding Public Communication of Education Research Award from the American Educational Research Association.
+
 March 28, 2024 — "Screens Are Everywhere in Schools. Do They Actually Help Kids Learn?" I spoke with Jessica Grose for this [NYT op-ed](https://www.nytimes.com/2024/03/27/opinion/schools-technology.html?ugrp=u&unlocked_article_code=1.gE0.DzKm.D_AUvFxdymKk&smid=url-share) that seeks to separate the hyperbole and reality of how education technology is changing our children's learning environments.
 
 March 4, 2024 — "Is the Hardest Job in Education Convincing Parents to Send Their Kids to a San Francisco Public School?" I spoke with Gail Cornwall for [this article](https://www.thenation.com/article/society/san-francisco-public-school-enrollment/) in _The Nation_.
