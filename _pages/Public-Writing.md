@@ -4,6 +4,8 @@ permalink: /Public-Writing/
 author_profile: true
 ---
 
+Dee, T. S. (February 13, 2024). [40 Years After ‘A Nation At Risk,’ What Needs to Change About School Staffing & Teacher Quality to Better Serve Students](https://www.the74million.org/article/40-years-after-a-nation-at-risk-what-needs-to-change-about-school-staffing-teacher-quality-to-better-serve-students/). _The 74_. 
+
 Dee, T. S. (February 9, 2023). [Public school enrollment dropped by 1.2M during the pandemic – an expert discusses where the students went and why it matters](https://theconversation.com/public-school-enrollment-dropped-by-1-2m-during-the-pandemic-an-expert-discusses-where-the-students-went-and-why-it-matters-198768). _The Conversation_.
 
 Dee, T. S. (November 2, 2022). [Public School Enrollment Is Down by More Than a Million. Why?](/files/EdWeekCommentary_Dee_20221102.pdf). _Education Week_.
