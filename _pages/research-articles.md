@@ -4,6 +4,8 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
+Dee, T. & Huffaker, E.(2023). [Accelerating Opportunity: Evidence from the Algebra Initiative](/files/Dee_Huffaker_A1_Initiative.pdf). May 2024.
+
 Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://www.pnas.org/doi/10.1073/pnas.2312249121). _Proceedings of the National Academy of Sciences, 121(3)_.
 
 Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). (EdWorkingPaper: 23-887). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/jnmt-2093](https://doi.org/10.26300/jnmt-2093)
