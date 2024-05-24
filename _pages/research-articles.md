@@ -4,7 +4,7 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. & Huffaker, E.(2024). [Accelerating Opportunity: Evidence from the Algebra Initiative](/files/Dee_Huffaker_A1_Initiative.pdf). May 2024.
+Dee, T. & Huffaker, E.(2024). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](/files/Dee_Huffaker_A1_Initiative.pdf). May 2024.
 
 Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://www.pnas.org/doi/10.1073/pnas.2312249121). _Proceedings of the National Academy of Sciences, 121(3)_.
 
