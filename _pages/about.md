@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-June 23, 2024 — I spoke with Claire Cain Miller for this NYT Upshot column: "[Boys Are Struggling. Male Kindergarten Teachers Are Here to Help.](https://www.nytimes.com/interactive/2024/06/23/upshot/male-kindergarten-teachers.html?unlocked_article_code=1.2E0.vFDH.fZIUpuIU3jWm&smid=url-share)."
+June 23, 2024 — I spoke with Claire Cain Miller for this NYT Upshot column: "[Boys Are Struggling. Male Kindergarten Teachers Are Here to Help](https://www.nytimes.com/interactive/2024/06/23/upshot/male-kindergarten-teachers.html?unlocked_article_code=1.2E0.vFDH.fZIUpuIU3jWm&smid=url-share)."
 
 June 5, 2024 — I spoke with the NYT's David Wallace-Wells about my research on chronic absenteeism for "[Why Children Are Missing More School Now](https://www.nytimes.com/2024/06/05/opinion/covid-school-attendance-pandemic-closings.html?u2g=i&unlocked_article_code=1.xU0.ukKt.xI6ct6MaEDb8&smid=url-share)." I also discussed this topic on [NPR's Morning Edition](https://www.npr.org/2024/06/06/nx-s1-4954754/some-states-are-seeing-chronic-absenteeism-soar-to-more-than-40-of-students).
 
