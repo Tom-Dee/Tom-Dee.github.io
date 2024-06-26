@@ -10,7 +10,7 @@ Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the
 
 Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). (EdWorkingPaper: 23-887). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/jnmt-2093](https://doi.org/10.26300/jnmt-2093)
 
-Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ai23-734.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
+Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/er_2024_ungated.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/yk56-yy47](https://doi.org/10.26300/yk56-yy47)
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029)
 
