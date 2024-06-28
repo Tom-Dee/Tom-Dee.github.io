@@ -4,19 +4,19 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. & Huffaker, E.(2024). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](/files/Dee_Huffaker_A1_Initiative.pdf). (EdWorkingPaper: 24-986). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/v492-1p91
+Dee, T. & Huffaker, E.(2024). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](/files/Dee_Huffaker_A1_Initiative.pdf). (EdWorkingPaper: 24-986). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/v492-1p91.
 
-Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). (EdWorkingPaper: 23-887). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/jnmt-2093](https://doi.org/10.26300/jnmt-2093)
+Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). (EdWorkingPaper: 23-887). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/jnmt-2093](https://doi.org/10.26300/jnmt-2093).
 
 Huffaker, E., Novicoff, S. & Dee, T. (in press). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/er_2024_ungated.pdf). _Educational Researcher_.
 
 Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://www.pnas.org/doi/10.1073/pnas.2312249121). _Proceedings of the National Academy of Sciences, 121(3)_.
 
-Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029)
+Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029).
 
-Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](/files/TCR_Dee.pdf), _Teachers College Record 125(6)_, 119-129 [https://doi.org/10.1177/01614681231190201](https://doi.org/10.1177/01614681231190201)
+Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](/files/TCR_Dee.pdf), _Teachers College Record 125(6)_, 119-129 [https://doi.org/10.1177/01614681231190201](https://doi.org/10.1177/01614681231190201).
 
-Dee, T., Loeb, S., & Shi, Y. (2023). [Public-sector leadership and philanthropy: The case of Broad superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis 45(2)_, 220–246. [https://doi.org/10.3102/01623737221113575](https://doi.org/10.3102/01623737221113575)
+Dee, T., Loeb, S., & Shi, Y. (2023). [Public-sector leadership and philanthropy: The case of Broad superintendents](/files/EEPA-Broad.pdf). _Educational Evaluation and Policy Analysis 45(2)_, 220–246. [https://doi.org/10.3102/01623737221113575](https://doi.org/10.3102/01623737221113575).
 
 Pyne, J., Messner, E. & Dee, T. S. (2023). [The dynamic effects of a summer learning program on behavioral engagement in School](/files/edfp_a_00368.pdf). _Education Finance and Policy 18 (1)_, 127–155. [https://doi.org/10.1162/edfp_a_00368](https://doi.org/10.1162/edfp_a_00368)
 
