@@ -4,13 +4,13 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. & Huffaker, E.(2024). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](/files/Dee_Huffaker_A1_Initiative.pdf). May 2024.
-
-Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://www.pnas.org/doi/10.1073/pnas.2312249121). _Proceedings of the National Academy of Sciences, 121(3)_.
+Dee, T. & Huffaker, E.(2024). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](/files/Dee_Huffaker_A1_Initiative.pdf). (EdWorkingPaper: 24-986). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/v492-1p91
 
 Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). (EdWorkingPaper: 23-887). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/jnmt-2093](https://doi.org/10.26300/jnmt-2093)
 
-Huffaker, E., Novicoff, S. & Dee, T. (2023). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/er_2024_ungated.pdf). (EdWorkingPaper: 23-734). Retrieved from Annenberg Institute at Brown University.
+Huffaker, E., Novicoff, S. & Dee, T. (in press). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/er_2024_ungated.pdf). _Educational Researcher_.
+
+Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://www.pnas.org/doi/10.1073/pnas.2312249121). _Proceedings of the National Academy of Sciences, 121(3)_.
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029)
 
