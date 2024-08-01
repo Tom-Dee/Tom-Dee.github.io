@@ -34,7 +34,7 @@ Dee, T. S. & Penner, E. (July 31, 2017). [Can ethnic studies courses help studen
 
 Dee, T. S. & Gershenson, S. (2017). [Unconscious bias in the classroom: Evidence and opportunities](https://goo.gl/O6Btqi). Google Inc.
 
-Dee, T. S. (November 10, 2015). [Ready, Steady,…, Stay at Home: The Benefits of a Delayed School Start](https://www.theguardian.com/teacher-network/2015/nov/10/benefits-delayed-school-start-education). _The Guardian_.
+Dee, T. S. (November 10, 2015). [Ready, Steady...Stay at Home: The Benefits of a Delayed School Start](https://www.theguardian.com/teacher-network/2015/nov/10/benefits-delayed-school-start-education). _The Guardian_.
 
 Herman, R., Dawson, P., Dee, T. S., Greene, J., Maynard, R., Redding, S., and Darwin, M. (2008). _[Turning around chronically low-performing schools: A practice guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/7#tab-summary)_ (NCEE #2008- 4020). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. 
 
