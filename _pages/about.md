@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-August 16, 2024 — 1 in 4 students is still chronically absent as reported in [latest collaboration](https://apnews.com/article/school-attendance-sick-day-chronic-absenteeism-270f6d07041760e90bf84d9f4108aa4d) with the Associated Press. I also discuss chronic absenteeism and academic recovery from the pandemic in the latest ["School's In" podcast](https://open.spotify.com/episode/1rqUfMdUJxuru8TT2AkAT7) from the Stanford GSE.
+August 16, 2024 — 1 in 4 students is still chronically absent from school as reported in my [latest collaboration](https://apnews.com/article/school-attendance-sick-day-chronic-absenteeism-270f6d07041760e90bf84d9f4108aa4d) with the Associated Press. I also discuss chronic absenteeism and academic recovery from the pandemic in the latest ["School's In" podcast](https://open.spotify.com/episode/1rqUfMdUJxuru8TT2AkAT7) from the Stanford GSE.
 
 June 23, 2024 — I spoke with Claire Cain Miller for this NYT Upshot column: "[Boys Are Struggling. Male Kindergarten Teachers Are Here to Help](https://www.nytimes.com/interactive/2024/06/23/upshot/male-kindergarten-teachers.html?unlocked_article_code=1.2E0.vFDH.fZIUpuIU3jWm&smid=url-share)."
 
