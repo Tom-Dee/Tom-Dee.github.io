@@ -10,6 +10,10 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+October 1, 2024 — My [short commentary](/files/SchoolAdministratorOct2024.pdf) on "norm erosion" and chronic absenteeism is in the current issue of _School Administrator_.
+
+September 27, 2024 — I presented my co-authored Algebra study, "Accelerating Opportunity: The Effects of Instructionally Supported Detracking," at the [EDRE Lecture Series](https://edre.uark.edu/lecture-series/index.php) at the University of Arkansas.
+
 August 26, 2024 — I spoke with Alec MacGillis for this New Yorker/ProPublica article: "[How declining enrollment is threatening the future of American public education](https://www.newyorker.com/magazine/2024/09/02/school-closures-public-education-charters-homeschooling-rochester)."
 
 August 16, 2024 — 1 in 4 students is still chronically absent from school as reported in my [latest collaboration](https://apnews.com/article/school-attendance-sick-day-chronic-absenteeism-270f6d07041760e90bf84d9f4108aa4d) with the Associated Press. I also discuss chronic absenteeism and academic recovery from the pandemic in the latest ["School's In" podcast](https://open.spotify.com/episode/1rqUfMdUJxuru8TT2AkAT7) from the Stanford GSE.
