@@ -3,6 +3,7 @@ layout: archive
 permalink: /Public-Writing/
 author_profile: true
 ---
+Dee, T. S. (October 2024). [The Unproductive Place of ‘Norm Erosion’ in Student Attendance](/files/SchoolAdministratorOct2024.pdf). _School Administrator_, page 19.
 
 Dee, T. S. (February 13, 2024). [40 Years After ‘A Nation At Risk,’ What Needs to Change About School Staffing & Teacher Quality to Better Serve Students](https://www.the74million.org/article/40-years-after-a-nation-at-risk-what-needs-to-change-about-school-staffing-teacher-quality-to-better-serve-students/). _The 74_. 
 
