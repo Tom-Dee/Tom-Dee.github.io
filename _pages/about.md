@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+October 9, 2024 — I spoke with Jessica Grose for this [_New York Times_ column](https://www.nytimes.com/2024/10/09/opinion/covid-education-crisis-election.html?unlocked_article_code=1.RE4.vgJu.tBTAqtvnHoof&smid=url-share), which argues that our current politics and policymaking aren't meeting the challenges we face in education.
+
 October 1, 2024 — My [short commentary](/files/SchoolAdministratorOct2024.pdf) on "norm erosion" and chronic absenteeism is in the current issue of _School Administrator_.
 
 September 27, 2024 — I presented my co-authored Algebra study, "[Accelerating Opportunity: The Effects of Instructionally Supported Detracking](https://edworkingpapers.com/sites/default/files/ai24-986.pdf)," at the [EDRE Lecture Series](https://edre.uark.edu/lecture-series/index.php) at the University of Arkansas.
