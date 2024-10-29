@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+October 27, 2024 — I spoke with the [_New York Times_](https://www.nytimes.com/2024/10/27/us/massachusetts-mcas-test-high-school.html?unlocked_article_code=1.VU4.9JfJ.O1WDt87ZnGdE&smid=url-share) about a controversial ballot initiative to lower academic standards in the context of ongoing academic recovery from the pandemic.
+
 October 9, 2024 — I spoke with Jessica Grose for this [_New York Times_ column](https://www.nytimes.com/2024/10/09/opinion/covid-education-crisis-election.html?unlocked_article_code=1.RE4.vgJu.tBTAqtvnHoof&smid=url-share), which argues that our current politics and policymaking aren't meeting the challenges we face in education.
 
 October 1, 2024 — My [short commentary](/files/SchoolAdministratorOct2024.pdf) on "norm erosion" and chronic absenteeism is in the current issue of _School Administrator_.
