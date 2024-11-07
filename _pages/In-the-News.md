@@ -14,7 +14,7 @@ Dee, T. S. (2010). Education and civic engagement. In D.J. Brewer and P.J. McEwa
 
 Dee, T. S. (2008). Assessing the college contribution to civic engagement. In M.S. McPherson and M.O. Schapiro (Eds.), _[Succeeding in college: What it means and how to make it happen](https://store.collegeboard.org/sto/productdetail.do?Itemkey=008303)_. College Board.
 
-Dee, T. S. & Jacob, B. A. (2007). Do high school exit exams influence educational attainment or labor market performance? In A. Gamoran (Ed.), _[Standards-Based reform and the poverty gap: Lessons for "No Child Left Behind"](https://www.brookings.edu/book/standards-based-reform-and-the-poverty-gap/)_. Brookings Institution Press.
+Dee, T. S. & Jacob, B. A. (2007). [Do high school exit exams influence educational attainment or labor market performance?](/files/exitexams2007.pdf) In A. Gamoran (Ed.), _Standards-Based reform and the poverty gap: Lessons for "No Child Left Behind"_. Brookings Institution Press.
 
 Dee, T. S. (2004). Comment on “Peer Effects in Higher Education" by G. Winston and D. Zimmermann. In C. M. Hoxby (Ed.), _[College choices: The economics of where to go, when to go, and how to pay for it](https://press.uchicago.edu/ucp/books/book/chicago/C/bo3643231.html)_ (pp. 421-423). University of Chicago Press.
 
