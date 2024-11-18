@@ -89,7 +89,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BDqIRPkAAAAJ&hl"
   email            : "mailto:tdee@stanford.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Thomas-Dee-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "@ProfTDee"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "thomas-dee-62351114"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ProfTDee"
+  twitter          : "https://bsky.app/profile/tomdee.bsky.social" #"@ProfTDee"
   vine             :
   weibo            :
   xing             :
