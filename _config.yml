@@ -116,7 +116,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  mastodon         : "https://econtwitter.net/web/@tdee"
+  mastodon         : # "https://econtwitter.net/web/@tdee"
+  bluesky          : "bsky.app/profile/tomdee.bsky.social" # Replace this with you Bluesky username
 
 # Reading Files
 include:
