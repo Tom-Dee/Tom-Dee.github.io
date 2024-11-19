@@ -3,6 +3,8 @@ layout: archive
 permalink: /Public-Writing/
 author_profile: true
 ---
+Dee, T. S. (2024). [Understanding the Promise and Reality of Continuous Improvement in US Public Schools](/files/CI_Dee_2024.pdf), Hoover Institution.
+
 Dee, T. S. (2024). [No one-size-fits-all solution to chronic absenteeism](/files/PDK_2024.pdf). _Phi Delta Kappan_, 106(3), 8-12.
 
 Dee, T. S. (October 2024). [The Unproductive Place of ‘Norm Erosion’ in Student Attendance](/files/SchoolAdministratorOct2024.pdf). _School Administrator_, page 19.
