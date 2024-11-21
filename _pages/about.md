@@ -9,6 +9,10 @@ redirect_from:
 Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanford.edu) and a Senior Fellow at the [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/) and a Senior Fellow (Joint) at the [Hoover Institution](https://www.hoover.org). I'm also a Research Associate with the Programs on Education, Children, and Health at the [National Bureau of Economic Research (NBER)](https://www.nber.org) and the Faculty Director of the [John W. Gardner Center for Youth and Their Communities](https://gardnercenter.stanford.edu). I currently serve on the editorial boards of the [American Educational Research Journal](https://journals.sagepub.com/home/aer), [the Journal of Policy Analysis and Management](https://onlinelibrary.wiley.com/journal/15206688), and [Education Finance and Policy](https://direct.mit.edu/edfp) and as an Associate Editor at [Economic Inquiry](https://weai.org/journals/view/EI). My cv is available [here](/files/cv_dee.pdf). 
 
 ### Recent News
+
+November 21, 2024 — I received the Peter H. Rossi Award for Contributions to the Theory or Practice of Program Evaluation at the Association for
+Public Policy Analysis and Management (APPAM) Research Conference. In my talk, I outlined a case for bringing open-science practices, particularly preregistration, to quasi-experimental studies. My talk slides are available [here](https://docs.google.com/presentation/d/1tbkuICfJZy4jnyb5Cu6RCM_4-1Xb9dnZq0tO4_6QmgE).
+
 November 19, 2024 — The rhetoric of driving problem-focused, grassroots organizational change through "continuous improvement" is pervasive in business, health care, and, increasingly, in education. In a new [Hoover Institution essay](/files/CI_Dee_2024.pdf), I discuss what we know about continuous improvement and what it will take to make it work in education.
 
 November 6, 2024 — In the current issue of _Phi Delta Kappan_, [I discuss](/files/PDK_2024.pdf) addressing chronic absenteeism through highly local data on attendance barriers and continuous-improvement processes that privilege aligned, evidence-based interventions that are low-cost and scalable.
