@@ -10,7 +10,7 @@ Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literac
 
 Huffaker, E., Novicoff, S. & Dee, T. (conditionally accepted). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/er_2024_ungated.pdf). _Educational Researcher_.
 
-Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](https://www.pnas.org/doi/10.1073/pnas.2312249121). _Proceedings of the National Academy of Sciences, 121(3)_.
+Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](/files/PNAS_Dee_2024.pdf). _Proceedings of the National Academy of Sciences, 121(3)_.
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029).
 
