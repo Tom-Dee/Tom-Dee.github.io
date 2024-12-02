@@ -8,7 +8,7 @@ Dee, T., and E. Huffaker. (2024). [Accelerating Opportunity: The Effects of Inst
 
 Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). (EdWorkingPaper: 23-887). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/jnmt-2093](https://doi.org/10.26300/jnmt-2093).
 
-Huffaker, E., Novicoff, S. & Dee, T. (conditionally accepted). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/er_2024_ungated.pdf). _Educational Researcher_.
+Huffaker, E., Novicoff, S. & Dee, T. (in press). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/er_2024_ungated.pdf). _Educational Researcher_.
 
 Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](/files/PNAS_Dee_2024.pdf). _Proceedings of the National Academy of Sciences, 121(3)_.
 
