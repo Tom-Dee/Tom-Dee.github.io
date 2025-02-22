@@ -4,6 +4,8 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
+Dee, T. (in press). [The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/Dee-Rossi.pdf), _Evaluation Review_.
+
 Dee, T., and E. Huffaker. (2024). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](https://edworkingpapers.com/sites/default/files/ai24-986.pdf). (EdWorkingPaper: 24-986). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/v492-1p91](https://doi.org/10.26300/v492-1p91).
 
 Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). (EdWorkingPaper: 23-887). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/jnmt-2093](https://doi.org/10.26300/jnmt-2093).
