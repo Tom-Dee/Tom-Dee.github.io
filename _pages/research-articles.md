@@ -14,7 +14,7 @@ Huffaker, E., Novicoff, S. & Dee, T. (in press). [Ahead of the Game? Course-Taki
 
 Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](/files/PNAS_Dee_2024.pdf). _Proceedings of the National Academy of Sciences, 121(3)_.
 
-Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/w29156.pdf). _American Educational Research Journal, 60(5)_, 916-940. [https://doi.org/10.3102/00028312221140029](https://doi.org/10.3102/00028312221140029).
+Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/Dee_AERJ_2023.pdf). _American Educational Research Journal, 60(5)_, 916-940. 
 
 Dee, T. (2023). [Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic Exodus from Public Schools](/files/TCR_Dee.pdf), _Teachers College Record 125(6)_, 119-129 [https://doi.org/10.1177/01614681231190201](https://doi.org/10.1177/01614681231190201).
 
