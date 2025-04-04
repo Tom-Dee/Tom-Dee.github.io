@@ -3,14 +3,15 @@ layout: archive
 permalink: /Research-Articles/
 author_profile: true
 ---
+Ganelin, D. & T. Dee (in press). New Advanced Placement Course Designed to Broaden Access Promotes Participation and Demographic Diversity in Computer Science Education. _Proceedings of the National Academy of Sciences_.
 
 Dee, T. (in press). [The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/Dee_EvaluationReview_2025.pdf), _Evaluation Review_.
+
+Huffaker, E., Novicoff, S. & Dee, T. (2025). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ER_2025.pdf). _Educational Researcher_ 54 (2), pp. 91-102.
 
 Dee, T., and E. Huffaker. (2024). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](https://edworkingpapers.com/sites/default/files/ai24-986.pdf). (EdWorkingPaper: 24-986). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/v492-1p91](https://doi.org/10.26300/v492-1p91).
 
 Novicoff, S. & Dee, T. (2023). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). (EdWorkingPaper: 23-887). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/jnmt-2093](https://doi.org/10.26300/jnmt-2093).
-
-Huffaker, E., Novicoff, S. & Dee, T. (in press). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/er_2024_ungated.pdf). _Educational Researcher_.
 
 Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](/files/PNAS_Dee_2024.pdf). _Proceedings of the National Academy of Sciences, 121(3)_.
 
