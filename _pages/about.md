@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+April 10, 2025 — Now out at the _Proceedings of the National Academy of Sciences_: my [new study](/files/PNAS_Ganelin_Dee_2025.pdf) with Stanford doctoral student, Daniela Ganelin, finds that adopting the new AP Computer Science Principles course dramatically increased (and diversified) student participation in AP Computer Science without crowding out take-up of the preexisting course.
+
 March 21, 2025 — My Rossi Award essay, "[The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/Dee_EvaluationReview_2025.pdf)" is now out in _Evaluation Review_.
 
 March 18, 2025 — I spoke on behalf of participating faculty as the Stanford-Sequoia K-12 Research Collaborative received a [Community Partnership Award](https://news.stanford.edu/stories/2025/03/community-partnership-awards-roland-prize-recipients) from Stanford University.
