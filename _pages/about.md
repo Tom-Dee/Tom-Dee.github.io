@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-April 10, 2025 — Now out at the _Proceedings of the National Academy of Sciences_: my [new study](/files/PNAS_Ganelin_Dee_2025.pdf) with Stanford doctoral student, Daniela Ganelin, finds that adopting the new AP Computer Science Principles course dramatically increased (and diversified) student participation in AP Computer Science without crowding out take-up of the preexisting course.
+April 10, 2025 — Now out at the _Proceedings of the National Academy of Sciences_: my [new study](/files/PNAS_Ganelin_Dee_2025.pdf) with Stanford doctoral student, Daniela Ganelin, finds that adopting the new AP Computer Science Principles course dramatically increased (and diversified) student participation in AP Computer Science without crowding out take-up of the preexisting course. See news coverage in [_Education Week_](https://www.edweek.org/teaching-learning/aps-newest-computer-science-course-has-attracted-more-diverse-students/2025/04) and the [_Stanford Report_](https://news.stanford.edu/stories/2025/04/study-ap-computer-science-course-underrepresented-students).
 
 March 21, 2025 — My Rossi Award essay, "[The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/Dee_EvaluationReview_2025.pdf)" is now out in _Evaluation Review_.
 
