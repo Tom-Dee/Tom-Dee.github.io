@@ -3,7 +3,7 @@ layout: archive
 permalink: /Research-Articles/
 author_profile: true
 ---
-Ganelin, D. & T. Dee (2025). [New Advanced Placement Course Designed to Broaden Access Promotes Participation and Demographic Diversity in Computer Science Education](/files/PNAS_Ganelin_Dee_2025.pdf). _Proceedings of the National Academy of Sciences_ 122(15).
+Ganelin, D. & T. Dee (2025). [New Advanced Placement Course Designed to Broaden Access Promotes Participation and Demographic Diversity in Computer Science Education](/files/PNAS_Ganelin_Dee_2025.pdf). _Proceedings of the National Academy of Sciences_ 122(15): e24222981221.
 
 Dee, T. (in press). [The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/Dee_EvaluationReview_2025.pdf), _Evaluation Review_.
 
