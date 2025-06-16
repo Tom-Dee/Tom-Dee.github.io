@@ -3,6 +3,9 @@ layout: archive
 permalink: /Research-Articles/
 author_profile: true
 ---
+
+Dee, T. (2025). [Recent Immigration Raids Increased Student Absences](/files/ai-25_1202.pdf). (EdWorkingPaper: 25-1202). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/a62e-h526](https://doi.org/10.26300/a62e-h526).
+
 Ganelin, D. & T. Dee (2025). [New Advanced Placement Course Designed to Broaden Access Promotes Participation and Demographic Diversity in Computer Science Education](/files/PNAS_Ganelin_Dee_2025.pdf). _Proceedings of the National Academy of Sciences_ 122(15): e24222981221.
 
 Dee, T. (in press). [The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/Dee_EvaluationReview_2025.pdf), _Evaluation Review_.
