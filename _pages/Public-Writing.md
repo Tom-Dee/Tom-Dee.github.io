@@ -3,6 +3,8 @@ layout: archive
 permalink: /Public-Writing/
 author_profile: true
 ---
+Dee, T. S. (2025). [High-Quality Research Rarely Informs Classroom Practice. Why?](https://www.edweek.org/leadership/opinion-high-quality-research-rarely-informs-classroom-practice-why/2025/09), _Education Week_.
+
 Dee, T. S. (2024). [Understanding the Promise and Reality of Continuous Improvement in US Public Schools](/files/CI_Dee_2024.pdf), Hoover Institution.
 
 Dee, T. S. (2024). [No one-size-fits-all solution to chronic absenteeism](/files/PDK_2024.pdf). _Phi Delta Kappan_, 106(3), 8-12.
