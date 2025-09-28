@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+September 24, 2025 — I was on the _Policy Changes Lives_ [podcast](https://shows.acast.com/policy-changes-lives-an-excelined-podcast/episodes/math-policy-201-when-should-students-take-algebra-i-or-shoul), sponsored by [Excel in Ed](https://excelined.org/), to discuss when and how students should access Algebra.
+
 September 8, 2025 — In an _Education Week_ #K12BigIdeas [essay](https://www.edweek.org/leadership/opinion-high-quality-research-rarely-informs-classroom-practice-why/2025/09), I criticize the quality and connectedness of education research, policy, and practice and suggest solutions.
 
 June 16, 2025 — My [new study](/files/ai25-1202.pdf) on the recent immigration raids finds they increased student absences by 22 percent. See news coverage in the [_New York Times_](https://www.nytimes.com/2025/06/16/us/immigration-raids-school-absences-deportation-fears.html?unlocked_article_code=1.PU8.AAg-.t7Is7G8qJ3kC&smid=url-share), [_The Hill_](https://thehill.com/homenews/education/5357631-ice-trump-immigration-enforcement-schools-chronic-absenteeism/), [_Education Week_](https://www.edweek.org/leadership/what-we-know-about-how-ice-raids-disrupt-student-learning/2025/06), [_EdSource_](https://edsource.org/2025/immigration-ice-raids-impact-student-attendance/734892), and the [_San Francisco Chronicle_](https://www.sfchronicle.com/california/article/ice-raid-against-farmworkers-reduced-school-days-20383836.php).
