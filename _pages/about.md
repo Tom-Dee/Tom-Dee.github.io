@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+October 22, 2025 — I gave the [2025 Annenberg Distinguished Lecture](https://annenberg.brown.edu/events/annenberg-2025-distinguished-lecture-understanding-and-addressing-chronic-absenteeism) on "Understanding and Addressing Chronic Absenteeism" at Brown University. 
+
 September 24, 2025 — I was on the _Policy Changes Lives_ [podcast](https://shows.acast.com/policy-changes-lives-an-excelined-podcast/episodes/math-policy-201-when-should-students-take-algebra-i-or-shoul), sponsored by [Excel in Ed](https://excelined.org/), to discuss when and how students should access Algebra.
 
 September 8, 2025 — In an _Education Week_ #K12BigIdeas [essay](https://www.edweek.org/leadership/opinion-high-quality-research-rarely-informs-classroom-practice-why/2025/09), I criticize the quality and connectedness of education research, policy, and practice and suggest solutions.
