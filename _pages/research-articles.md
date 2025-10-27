@@ -10,7 +10,7 @@ Ganelin, D. & T. Dee (2025). [New Advanced Placement Course Designed to Broaden 
 
 Novicoff, S. & Dee, T. (in press). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). _Educational Evaluation and Policy Analysis_.
 
-Dee, T. (2025). [The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/QED_Pregister_2025.pdf), _Evaluation Review_, 49(5), 931-945.
+Dee, T. (2025). [The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/QED_Preregister_2025.pdf), _Evaluation Review_, 49(5), 931-945.
 
 Huffaker, E., Novicoff, S. & Dee, T. (2025). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ER_2025.pdf). _Educational Researcher_ 54 (2), pp. 91-102.
 
