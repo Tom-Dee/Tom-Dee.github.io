@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+November 4, 2025 — [My study](/files/dee-2025-immigration-PNAS.pdf) on the recent immigration raid in California's Central Valley is now out in the [_Proceedings of the National Academy of Sciences_](https://doi.org/10.1073/pnas.2510395122).
+
 October 22, 2025 — I gave the [2025 Annenberg Distinguished Lecture](https://annenberg.brown.edu/events/annenberg-2025-distinguished-lecture-understanding-and-addressing-chronic-absenteeism) on "Understanding and Addressing Chronic Absenteeism" at Brown University. 
 
 September 24, 2025 — I was on the _Policy Changes Lives_ [podcast](https://shows.acast.com/policy-changes-lives-an-excelined-podcast/episodes/math-policy-201-when-should-students-take-algebra-i-or-shoul), sponsored by [Excel in Ed](https://excelined.org/), to discuss when and how students should access Algebra.
