@@ -4,9 +4,9 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. (2025). [Recent Immigration Raids Increased Student Absences](/files/ai25-1202.pdf). (EdWorkingPaper: 25-1202). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/a62e-h526](https://doi.org/10.26300/a62e-h526).
+Dee, T. (2025). [Recent Immigration Raids Increased Student Absences](/files/dee-2025-immigration-PNAS). _Proceedings of the National Academy of the Sciences_ 122(45) e2510395122, [https://doi.org/10.1073/pnas.2510395122](https://doi.org/10.1073/pnas.2510395122).
 
-Ganelin, D. & T. Dee (2025). [New Advanced Placement Course Designed to Broaden Access Promotes Participation and Demographic Diversity in Computer Science Education](/files/PNAS_Ganelin_Dee_2025.pdf). _Proceedings of the National Academy of Sciences_ 122(15): e24222981221.
+Ganelin, D. & T. Dee (2025). [New Advanced Placement Course Designed to Broaden Access Promotes Participation and Demographic Diversity in Computer Science Education](/files/PNAS_Ganelin_Dee_2025.pdf). _Proceedings of the National Academy of Sciences_ 122(15) e24222981221, [https://doi.org/10.1073/pnas.2422298122](https://doi.org/10.1073/pnas.2422298122).
 
 Novicoff, S. & Dee, T. (in press). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). _Educational Evaluation and Policy Analysis_.
 
@@ -16,7 +16,7 @@ Huffaker, E., Novicoff, S. & Dee, T. (2025). [Ahead of the Game? Course-Taking P
 
 Dee, T., and E. Huffaker. (2024). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](https://edworkingpapers.com/sites/default/files/ai24-986.pdf). (EdWorkingPaper: 24-986). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/v492-1p91](https://doi.org/10.26300/v492-1p91).
 
-Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](/files/PNAS_Dee_2024.pdf). _Proceedings of the National Academy of Sciences, 121(3)_.
+Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](/files/PNAS_Dee_2024.pdf). _Proceedings of the National Academy of Sciences_ 121(3) e2312249121, [https://doi.org/10.1073/pnas.2312249121](https://doi.org/10.1073/pnas.2312249121).
 
 Dee, T., Huffaker, E., Phillips, C., & Sagara, E. (2023). [The revealed preferences for school reopening: Evidence from public-school disenrollment](/files/Dee_AERJ_2023.pdf). _American Educational Research Journal, 60(5)_, 916-940. 
 
