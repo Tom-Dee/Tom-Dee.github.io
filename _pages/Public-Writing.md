@@ -3,7 +3,7 @@ layout: archive
 permalink: /Public-Writing/
 author_profile: true
 ---
-Dee, T. S. (2025). [High-Quality Research Rarely Informs Classroom Practice. Why?](https://www.edweek.org/leadership/opinion-high-quality-research-rarely-informs-classroom-practice-why/2025/09), _Education Week_.
+Dee, T. S. (September 8, 2025). [High-Quality Research Rarely Informs Classroom Practice. Why?](/files/Dee_EdWeek_BigIdeas.pdf), _Education Week_.
 
 Dee, T. S. (2024). [Understanding the Promise and Reality of Continuous Improvement in US Public Schools](/files/CI_Dee_2024.pdf), Hoover Institution.
 
