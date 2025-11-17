@@ -4,7 +4,7 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Dee, T. & J. Pyne. (2025). [Emergency mental health co-responders reduce involuntary psychiatric detentions in the USA](/files/NHB2025.pdf). _Nature Human Behaviour_. https://doi.org/10.1038/s41562-025-02339-7.
+Dee, T. & J. Pyne. (2025). [Emergency mental health co-responders reduce involuntary psychiatric detentions in the USA](/files/NHB2025.pdf). _Nature Human Behaviour_. [https://doi.org/10.1038/s41562-025-02339-7](https://doi.org/10.1038/s41562-025-02339-7).
 
 Dee, T. (2025). [Recent Immigration Raids Increased Student Absences](/files/dee-2025-immigration-PNAS.pdf). _Proceedings of the National Academy of the Sciences_ 122(45) e2510395122, [https://doi.org/10.1073/pnas.2510395122](https://doi.org/10.1073/pnas.2510395122).
 
