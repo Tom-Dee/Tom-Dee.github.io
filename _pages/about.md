@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+November 17, 2025 — [Our study](/files/NHB2025.pdf) of mental-health co-responders in San Mateo County, CA, now out in [_Nature Human Behaviour_](https://doi.org/10.1038/s41562-025-02339-7), finds positive effects relative to police-only responses.
+
 November 4, 2025 — [My study](/files/dee-2025-immigration-PNAS.pdf) on the recent immigration raid in California's Central Valley is now out in the [_Proceedings of the National Academy of Sciences_](https://doi.org/10.1073/pnas.2510395122).
 
 October 22, 2025 — I gave the [2025 Annenberg Distinguished Lecture](https://annenberg.brown.edu/events/annenberg-2025-distinguished-lecture-understanding-and-addressing-chronic-absenteeism) on "Understanding and Addressing Chronic Absenteeism" at Brown University. 
