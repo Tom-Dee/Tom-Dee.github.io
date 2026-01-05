@@ -10,7 +10,7 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
-December 17, 2025 — In a [new, co-authored study](/files/ai25-1358.pdf), we find that the major measles outbreak that occurred recently in West Texas increased student absenteeism by 41 percent. See the Associated Press story [here](https://apnews.com/article/measles-outbreak-school-attendance-absences-0384199ace95b4088f60864ce9ec8315).
+December 17, 2025 — In a [new, co-authored study](/files/ai25-1358.pdf), we find that the major measles outbreak that occurred recently in West Texas increased student absenteeism by 41 percent. See coverage by the [Associated Press](https://apnews.com/article/measles-outbreak-school-attendance-absences-0384199ace95b4088f60864ce9ec8315) and the [Stanford Report](https://news.stanford.edu/stories/2025/12/measles-outbreak-led-outsized-jump-student-absences-stanford-research-finds).
 
 November 17, 2025 — [Our study](/files/NHB2025.pdf) of mental-health co-responders in San Mateo County, CA, now out in [_Nature Human Behaviour_](https://doi.org/10.1038/s41562-025-02339-7), finds positive effects relative to police-only responses.
 
