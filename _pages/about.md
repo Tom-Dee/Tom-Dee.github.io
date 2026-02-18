@@ -10,6 +10,8 @@ Hi! I'm the Barnett Family Professor at [Stanford University](https://www.stanfo
 
 ### Recent News
 
+February 3, 2026 — I'm pleased to join the Advisory Board of the [Opportunity and Inclusive Growth Institute](https://www.minneapolisfed.org/news-releases/2026/opportunity-and-inclusive-growth-institute-advisory-board-welcomes-dee-nakamura-and-price) at the Federal Reserve Bank of Minneapolis.
+
 January 7, 2026 — I was honored to be included in [this list](https://www.edweek.org/policy-politics/opinion-who-are-the-nations-top-education-scholars/2026/01) of publicly influential education scholars from _Education Week_.
 
 December 17, 2025 — In a [new, co-authored study](/files/ai25-1358.pdf), we find that the major measles outbreak that occurred recently in West Texas increased student absenteeism by 41 percent. See coverage by the [Associated Press](https://apnews.com/article/measles-outbreak-school-attendance-absences-0384199ace95b4088f60864ce9ec8315) and the [Stanford Report](https://news.stanford.edu/stories/2025/12/measles-outbreak-led-outsized-jump-student-absences-stanford-research-finds).
