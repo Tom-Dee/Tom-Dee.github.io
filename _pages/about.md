@@ -10,6 +10,8 @@ Hi! I'm an applied economist focused on providing credible empirical evidence re
 
 ### Recent News
 
+March 24, 2026 — Elizabeth Huffaker and I discussed the early results from San Francisco's "Algebra in 8th Grade" pilots with the School Board, which authorized a district-wide scale-up. See coverage by the [_New York Times_](https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html?unlocked_article_code=1.VlA.K3fs.ftxws3_y1rWK&smid=url-share) and [_The 74_](https://www.the74million.org/article/san-francisco-brings-back-8th-grade-algebra-to-broader-student-group/).
+
 February 3, 2026 — I'm pleased to join the Advisory Board of the [Opportunity and Inclusive Growth Institute](https://www.minneapolisfed.org/news-releases/2026/opportunity-and-inclusive-growth-institute-advisory-board-welcomes-dee-nakamura-and-price) at the Federal Reserve Bank of Minneapolis.
 
 January 7, 2026 — I was honored to be included in [this list](https://www.edweek.org/policy-politics/opinion-who-are-the-nations-top-education-scholars/2026/01) of publicly influential education scholars from _Education Week_.
