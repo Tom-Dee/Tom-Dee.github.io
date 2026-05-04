@@ -10,7 +10,7 @@ Hi! I'm an applied economist focused on providing credible empirical evidence re
 
 ### Recent News
 
-May 4, 2026 — Our national study of school phone bans is [now available](/files/w35132.pdf). See coverage in the [_New York Times_](https://www.nytimes.com/2026/05/04/us/did-school-cellphone-bans-study.html?unlocked_article_code=1.f1A.LWwz.SEzURJJaHYSR&smid=url-share).
+May 4, 2026 — Our national study of school phone bans is [now available](/files/w35132.pdf). See coverage in the [_New York Times_](https://www.nytimes.com/2026/05/04/us/did-school-cellphone-bans-study.html?unlocked_article_code=1.f1A.LWwz.SEzURJJaHYSR&smid=url-share), [_Washington Post_](https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/), and [_Scientific American_](https://www.scientificamerican.com/article/school-cell-phone-bans-may-boost-student-well-being-but-not-test-scores-new-study-suggests/).
 
 March 24, 2026 — Elizabeth Huffaker and I discussed the early results from San Francisco's "Algebra in 8th Grade" pilots with the School Board, which authorized a district-wide scale-up. See coverage by the [_New York Times_](https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html?unlocked_article_code=1.VlA.K3fs.ftxws3_y1rWK&smid=url-share), [_The 74_](https://www.the74million.org/article/san-francisco-brings-back-8th-grade-algebra-to-broader-student-group/), and [_Education Week_](https://www.edweek.org/teaching-learning/a-new-approach-to-algebra-in-8th-grade-seems-to-produce-big-benefits/2026/04).
 
