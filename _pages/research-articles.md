@@ -4,6 +4,8 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
+Allcott, H., E.J. Barron, T. Dee, A.L. Duckworth, M. Gentzkow, and B. Jacob (2026). [The Effects of School Phone Bans: National Evidence from Lockable Pouches](/files/w35132.pdf). NBER Working Paper 35132.
+
 Dee, T. and S. Wilson. (2025). [The West Texas Measles Outbreak and Student Absences](/files/ai25-1358.pdf). (EdWorkingPaper: 25-1358). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/050d-c145](https://doi.org/10.26300/050d-c145).
 
 Dee, T. & J. Pyne. (2025). [Emergency mental health co-responders reduce involuntary psychiatric detentions in the USA](/files/NHB2025.pdf). _Nature Human Behaviour_. [https://doi.org/10.1038/s41562-025-02339-7](https://doi.org/10.1038/s41562-025-02339-7).
