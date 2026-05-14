@@ -6,6 +6,10 @@ author_profile: true
 
 Allcott, H., E.J. Barron, T. Dee, A.L. Duckworth, M. Gentzkow, and B. Jacob (2026). [The Effects of School Phone Bans: National Evidence from Lockable Pouches](/files/w35132.pdf). NBER Working Paper 35132.
 
+Novicoff, S. & Dee, T. (2026). [The Achievement Effects of Scaling Early Literacy Reforms](/files/EEPA_2026.pdf). _Educational Evaluation and Policy Analysis_ 48(2), 589-612.
+
+Dee, T., and E. Huffaker. (2026). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](/files/AERJ_2026.pdf). _American Educational Research Journal_ 63(2), 307-350.
+
 Dee, T. and S. Wilson. (2025). [The West Texas Measles Outbreak and Student Absences](/files/ai25-1358.pdf). (EdWorkingPaper: 25-1358). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/050d-c145](https://doi.org/10.26300/050d-c145).
 
 Dee, T. & J. Pyne. (2025). [Emergency mental health co-responders reduce involuntary psychiatric detentions in the USA](/files/NHB2025.pdf). _Nature Human Behaviour_. [https://doi.org/10.1038/s41562-025-02339-7](https://doi.org/10.1038/s41562-025-02339-7).
@@ -17,10 +21,6 @@ Ganelin, D. & T. Dee (2025). [New Advanced Placement Course Designed to Broaden 
 Dee, T. (2025). [The Case for Preregistering Quasi-Experimental Program and Policy Evaluations](/files/QED_Preregister_2025.pdf), _Evaluation Review_, 49(5), 931-945.
 
 Huffaker, E., Novicoff, S. & Dee, T. (2025). [Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform](/files/ER_2025.pdf). _Educational Researcher_ 54 (2), pp. 91-102.
-
-Dee, T., and E. Huffaker. (in press). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](https://edworkingpapers.com/sites/default/files/ai24-986.pdf). _American Educational Research Journal_.
-
-Novicoff, S. & Dee, T. (in press). [The Achievement Effects of Scaling Early Literacy Reforms](/files/ai23-887.pdf). _Educational Evaluation and Policy Analysis_.
 
 Dee, T. (2024). [Higher Chronic Absenteeism Threatens Academic Recovery from the COVID-19 Pandemic](/files/PNAS_Dee_2024.pdf). _Proceedings of the National Academy of Sciences_ 121(3) e2312249121, [https://doi.org/10.1073/pnas.2312249121](https://doi.org/10.1073/pnas.2312249121).
 
