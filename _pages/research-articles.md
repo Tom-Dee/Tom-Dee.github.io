@@ -4,7 +4,7 @@ permalink: /Research-Articles/
 author_profile: true
 ---
 
-Allcott, H., E.J. Barron, T. Dee, A.L. Duckworth, M. Gentzkow, and B. Jacob (2026). [The Effects of School Phone Bans: National Evidence from Lockable Pouches](/files/w35132.pdf). NBER Working Paper 35132.
+Allcott, H., E.J. Barron, T. Dee, A.L. Duckworth, M. Gentzkow, and B. Jacob (forthcoming). [The Effects of School Phone Bans: National Evidence from Lockable Pouches](/files/w35132.pdf). _Quarterly Journal of Economics_.
 
 Novicoff, S. & Dee, T. (2026). [The Achievement Effects of Scaling Early Literacy Reforms](/files/EEPA_2026.pdf). _Educational Evaluation and Policy Analysis_ 48(2), 589-612.
 
