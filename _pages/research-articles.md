@@ -6,6 +6,8 @@ author_profile: true
 
 Allcott, H., E.J. Barron, T. Dee, A.L. Duckworth, M. Gentzkow, and B. Jacob (forthcoming). [The Effects of School Phone Bans: National Evidence from Lockable Pouches](/files/w35132.pdf). _Quarterly Journal of Economics_.
 
+Dee, T. & J. Pyne. (2026). Empty Desks: Schools and Staffing after the Pandemic. (EdWorkingPaper: 26-1624). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/60a8-kk19.
+
 Novicoff, S. & Dee, T. (2026). [The Achievement Effects of Scaling Early Literacy Reforms](/files/EEPA_2026.pdf). _Educational Evaluation and Policy Analysis_ 48(2), 589-612.
 
 Dee, T., and E. Huffaker. (2026). [Accelerating Opportunity: The Effects of Instructionally Supported Detracking](/files/AERJ_2026.pdf). _American Educational Research Journal_ 63(2), 307-350.
