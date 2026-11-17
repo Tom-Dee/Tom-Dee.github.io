@@ -10,7 +10,9 @@ Hi! I'm an applied economist focused on providing credible empirical evidence re
 
 ### Recent News
 
-November, 9 2026 — A new study, "[Empty Desks: Schools and Staffing after the Pandemic](/files/ai26-1624.pdf)," co-authored with Jaymes Pyne, is now out.
+November 17, 2026 — I joined the [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/) director, Neale Mahoney, on the podcast "Econ to Go" to discuss education and the economy. Find it on [YouTube](https://www.youtube.com/playlist?list=PLs-p47TpkzbcouPPocQHF-Lke1OAwGM1Z), [Apple](https://podcasts.apple.com/us/podcast/econ-to-go/id1877987298), [Spotify](https://open.spotify.com/show/6N6y2rZjgzYp3iLxapTv66), and [Amazon](https://music.amazon.com/podcasts/77d2d963-f67c-4333-aa5f-3431693f6f9b/econ-to-go).
+
+November 9, 2026 — A new study, "[Empty Desks: Schools and Staffing after the Pandemic](/files/ai26-1624.pdf)," co-authored with Jaymes Pyne, is now out.
 
 May 4, 2026 — Our national study of school phone bans is [now available](/files/w35132.pdf). See coverage in the [_New York Times_](https://www.nytimes.com/2026/05/04/us/did-school-cellphone-bans-study.html?unlocked_article_code=1.f1A.LWwz.SEzURJJaHYSR&smid=url-share), [_Washington Post_](https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/), and [_Scientific American_](https://www.scientificamerican.com/article/school-cell-phone-bans-may-boost-student-well-being-but-not-test-scores-new-study-suggests/).
 
